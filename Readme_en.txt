@@ -5,7 +5,7 @@ https://github.com/christophjurczyk
 Version 1.0
 25.08.2020
 
-The airfield EDEN - Bad Hersfeld is located on the Johannesberg (N50°50'41" E09°42'26" GPS elevation 932ft (284m)). It has an inclined runway of 3.15%. Further information and approach maps can be found here: 
+The airfield EDEN - Bad Hersfeld is located on the Johannesberg (N50Â°50'41" E09Â°42'26" GPS elevation 932ft (284m)). It has a runway with a slope of 3.15%. Further information and approach charts can be found here: 
 https://mfc-badhersfeld.de/flugplatz
 
 
