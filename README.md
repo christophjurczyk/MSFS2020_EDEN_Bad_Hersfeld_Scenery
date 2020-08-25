@@ -1,4 +1,4 @@
-# EDEN Bad Hersfeld Johannesberg and surroundings for Microsoft Flight Simulator 2020
+# EDEN Bad Hersfeld Johannesberg and surrounding for Microsoft Flight Simulator 2020
 
 The airfield EDEN - Bad Hersfeld is located on the Johannesberg (N50°50'41" E09°42'26" GPS elevation 932ft (284m)). It has an inclined runway of 3.15%. Further information and approach maps can be found here: 
 https://mfc-badhersfeld.de/flugplatz
