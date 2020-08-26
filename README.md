@@ -6,6 +6,8 @@ https://mfc-badhersfeld.de/flugplatz
 ![EDEN - Bad Hersfeld](https://raw.githubusercontent.com/christophjurczyk/MSFS2020_EDEN_Bad_Hersfeld_Scenery/master/screenshots/1.jpg)
 
 ## Installation:
+Download the ![latest release](https://github.com/christophjurczyk/MSFS2020_EDEN_Bad_Hersfeld_Scenery/releases) and unzip the downloaded file.
+
 If no addon manager is installed, copy the folder "cjscenery-scenery-eden-bad-hersfeld-rotenburg" into the community folder under the FS2020 packages folder. The folder is located under:
 - Microsoft Store Edition:
 `C:\Users\[YOUR USERNAME]\AppData\Local\Packages\Microsoft.FlightSimulator_<RANDOMLETTERS>\LocalCache\Packages\Community`
