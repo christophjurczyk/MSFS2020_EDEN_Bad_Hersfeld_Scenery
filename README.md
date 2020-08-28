@@ -23,7 +23,7 @@ If no addon manager is installed, copy the folder "cjscenery-scenery-eden-bad-he
 ## Let's go flying:
 Just search for "EDEN" or "Bad Hersfeld" in the main menu...off we go! Since the airfield can usually only be approached by VFR, no special night textures are included.
 
-## Implemented Objects
+### Implemented Objects
 Object | Position |
 --- | --- |
 Airfield EDEN - Johannesberg | 50.844457, 9.707169 |
