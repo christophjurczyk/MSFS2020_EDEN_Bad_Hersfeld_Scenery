@@ -48,6 +48,7 @@ Studienzentrum Rotenburg | 50.991082, 9.731213 |
 Toom Bebra | 50.960709, 9.795515 |
 Industrial Site Blaue Linde | 50.846918, 9.727435 |
 Industrial Site Bingartes | 50.856893, 9.710148 |
+Lomo Tank | 50.873825, 9.718936 |
 
 ## Important Information:
 - This scenery is FREEWARE.
