@@ -23,6 +23,32 @@ If no addon manager is installed, copy the folder "cjscenery-scenery-eden-bad-he
 ## Let's go flying:
 Just search for "EDEN" or "Bad Hersfeld" in the main menu...off we go! Since the airfield can usually only be approached by VFR, no special night textures are included.
 
+## Implemented Objects
+Object | Position |
+--- | --- |
+Airfield EDEN - Johannesberg | 50.844457, 9.707169 |
+Achim Zuschlag | 50.877116, 9.721105|
+Rechberggelände Bad Hersfeld | 50.863495, 9.708022 |
+Amazon FRA1 | 50.846294, 9.677419 |
+Amazon FRA3 | 50.851987, 9.734092 |
+Asteelflash | 50.870494, 9.722906 |
+Railway Station Bad Hersfeld | 50.870109, 9.716285 |
+Besengrundcenter | 50.904698, 9.745694 |
+DHL Mecklar | 50.920835, 9.773675 |
+Schildepark | 50.871135, 9.708937 |
+Via, Expert Klein, Möbel-Direkt | 50.866264, 9.716971 |
+High-Speed Railway Bridges Niederaula | 50.780701, 9.596241 |
+Grenzebach BSH | 50.857711, 9.741226 | 
+Former US-Army Barracks Hohe Luft (McPheeters Barracks) | 50.859098, 9.730456 |
+Stiftsruine Bad Hersfeld | 50.866497, 9.702784 |
+Robert Heil Turm | 50.863892, 9.687717 |
+St. Lullus Sturmius Church | 50.870921, 9.712601 |
+Municipal Church Bad Hersfeld | 50.868565, 9.707188 |
+Studienzentrum Rotenburg | 50.991082, 9.731213 |
+Toom Bebra | 50.960709, 9.795515 |
+Industrial Site Blaue Linde | 50.846918, 9.727435 |
+Industrial Site Bingartes | 50.856893, 9.710148 |
+
 ## Important Information:
 - This scenery is FREEWARE.
 - This scenery IS FORBIDDEN to be sold!
