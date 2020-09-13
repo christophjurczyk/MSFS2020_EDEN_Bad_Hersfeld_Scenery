@@ -49,6 +49,9 @@ Toom Bebra | 50.960709, 9.795515 |
 Industrial Site Blaue Linde | 50.846918, 9.727435 |
 Industrial Site Bingartes | 50.856893, 9.710148 |
 Lomo Tank | 50.873825, 9.718936 |
+RS Components | 50.847207, 9.680427 |
+Landratsamt Hersfeld-Rotenburg | 50.871706, 9.716047 |
+Modellschule Obersberg | 50.873321, 9.732672 |
 
 ## Important Information:
 - This scenery is FREEWARE.

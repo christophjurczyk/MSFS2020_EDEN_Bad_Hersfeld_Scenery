@@ -8,12 +8,12 @@
     {
       "path": "manifest.json",
       "size": 300,
-      "date": 132428413406603798
+      "date": 132444915808962102
     },
     {
       "path": "scenery/global/scenery/modelLib.BGL",
-      "size": 26656308,
-      "date": 132428413403894928
+      "size": 27967240,
+      "date": 132444915801513867
     },
     {
       "path": "scenery/global/scenery/TEXTURE/ACHIM_ZUSCHLAG_ACHIM_ZUSCHLAG_0.PNG.DDS",
@@ -214,6 +214,26 @@
       "path": "scenery/global/scenery/TEXTURE/AMAZON_FRA3_2.PNG.DDS.json",
       "size": 102,
       "date": 132428382606409613
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/AMAZON_FRA3_SOLARPANEL_TEXTURE_0.PNG.DDS",
+      "size": 11184952,
+      "date": 132431670523147271
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/AMAZON_FRA3_SOLARPANEL_TEXTURE_0.PNG.DDS.json",
+      "size": 102,
+      "date": 132431670523047257
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/AMAZON_FRA3_SOLARPANEL_TEXTURE_1.PNG.DDS",
+      "size": 349672,
+      "date": 132431670525435445
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/AMAZON_FRA3_SOLARPANEL_TEXTURE_1.PNG.DDS.json",
+      "size": 102,
+      "date": 132431670525424909
     },
     {
       "path": "scenery/global/scenery/TEXTURE/AMH_1_AMH_1_0.PNG.DDS",
@@ -1846,6 +1866,286 @@
       "date": 132428383144455545
     },
     {
+      "path": "scenery/global/scenery/TEXTURE/LANDRATSAMT_HEF_0.PNG.DDS",
+      "size": 174904,
+      "date": 132443282061038040
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/LANDRATSAMT_HEF_0.PNG.DDS.json",
+      "size": 102,
+      "date": 132443282061028023
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/LANDRATSAMT_HEF_1.PNG.DDS",
+      "size": 87528,
+      "date": 132443282075995756
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/LANDRATSAMT_HEF_1.PNG.DDS.json",
+      "size": 102,
+      "date": 132443282075805767
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/LANDRATSAMT_HEF_10.PNG.DDS",
+      "size": 349704,
+      "date": 132443282067815459
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/LANDRATSAMT_HEF_10.PNG.DDS.json",
+      "size": 102,
+      "date": 132443282067805468
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/LANDRATSAMT_HEF_11.PNG.DDS",
+      "size": 11184976,
+      "date": 132443282091685030
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/LANDRATSAMT_HEF_11.PNG.DDS.json",
+      "size": 119,
+      "date": 132443282091525022
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/LANDRATSAMT_HEF_12.PNG.DDS",
+      "size": 699208,
+      "date": 132443282063168510
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/LANDRATSAMT_HEF_12.PNG.DDS.json",
+      "size": 102,
+      "date": 132443282062908512
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/LANDRATSAMT_HEF_13.PNG.DDS",
+      "size": 174904,
+      "date": 132443282075075761
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/LANDRATSAMT_HEF_13.PNG.DDS.json",
+      "size": 102,
+      "date": 132443282075055777
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/LANDRATSAMT_HEF_14.PNG.DDS",
+      "size": 699208,
+      "date": 132443282069655469
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/LANDRATSAMT_HEF_14.PNG.DDS.json",
+      "size": 102,
+      "date": 132443282069555466
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/LANDRATSAMT_HEF_15.PNG.DDS",
+      "size": 1398248,
+      "date": 132443282097315511
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/LANDRATSAMT_HEF_15.PNG.DDS.json",
+      "size": 102,
+      "date": 132443282097255518
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/LANDRATSAMT_HEF_17.PNG.DDS",
+      "size": 174904,
+      "date": 132443282102998458
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/LANDRATSAMT_HEF_17.PNG.DDS.json",
+      "size": 102,
+      "date": 132443282102898457
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/LANDRATSAMT_HEF_18.PNG.DDS",
+      "size": 699192,
+      "date": 132443282059048028
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/LANDRATSAMT_HEF_18.PNG.DDS.json",
+      "size": 102,
+      "date": 132443282059028034
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/LANDRATSAMT_HEF_19.PNG.DDS",
+      "size": 349704,
+      "date": 132443282073335454
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/LANDRATSAMT_HEF_19.PNG.DDS.json",
+      "size": 102,
+      "date": 132443282073315455
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/LANDRATSAMT_HEF_2.PNG.DDS",
+      "size": 174904,
+      "date": 132443282066635465
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/LANDRATSAMT_HEF_2.PNG.DDS.json",
+      "size": 102,
+      "date": 132443282066615467
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/LANDRATSAMT_HEF_20.PNG.DDS",
+      "size": 699208,
+      "date": 132443282065045461
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/LANDRATSAMT_HEF_20.PNG.DDS.json",
+      "size": 102,
+      "date": 132443282064955462
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/LANDRATSAMT_HEF_21.PNG.DDS",
+      "size": 1398248,
+      "date": 132443282079583317
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/LANDRATSAMT_HEF_21.PNG.DDS.json",
+      "size": 102,
+      "date": 132443282079323326
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/LANDRATSAMT_HEF_22.PNG.DDS",
+      "size": 699208,
+      "date": 132443282057167717
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/LANDRATSAMT_HEF_22.PNG.DDS.json",
+      "size": 102,
+      "date": 132443282057027716
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/LANDRATSAMT_HEF_23.PNG.DDS",
+      "size": 174904,
+      "date": 132443282072175466
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/LANDRATSAMT_HEF_23.PNG.DDS.json",
+      "size": 102,
+      "date": 132443282072165456
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/LANDRATSAMT_HEF_25.PNG.DDS",
+      "size": 1398248,
+      "date": 132443282101388460
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/LANDRATSAMT_HEF_25.PNG.DDS.json",
+      "size": 102,
+      "date": 132443282100878457
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/LANDRATSAMT_HEF_26.PNG.DDS",
+      "size": 184,
+      "date": 132443282071375464
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/LANDRATSAMT_HEF_26.PNG.DDS.json",
+      "size": 102,
+      "date": 132443282071365461
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/LANDRATSAMT_HEF_27.PNG.DDS",
+      "size": 184,
+      "date": 132443282103078474
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/LANDRATSAMT_HEF_27.PNG.DDS.json",
+      "size": 102,
+      "date": 132443282103068470
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/LANDRATSAMT_HEF_28.PNG.DDS",
+      "size": 699216,
+      "date": 132443282060308014
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/LANDRATSAMT_HEF_28.PNG.DDS.json",
+      "size": 119,
+      "date": 132443282060208025
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/LANDRATSAMT_HEF_29.PNG.DDS",
+      "size": 174904,
+      "date": 132443282074015765
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/LANDRATSAMT_HEF_29.PNG.DDS.json",
+      "size": 102,
+      "date": 132443282074005750
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/LANDRATSAMT_HEF_3.PNG.DDS",
+      "size": 174904,
+      "date": 132443282092485384
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/LANDRATSAMT_HEF_3.PNG.DDS.json",
+      "size": 102,
+      "date": 132443282092475399
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/LANDRATSAMT_HEF_4.PNG.DDS",
+      "size": 174904,
+      "date": 132443282071295466
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/LANDRATSAMT_HEF_4.PNG.DDS.json",
+      "size": 102,
+      "date": 132443282071275471
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/LANDRATSAMT_HEF_5.PNG.DDS",
+      "size": 174904,
+      "date": 132443282102058465
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/LANDRATSAMT_HEF_5.PNG.DDS.json",
+      "size": 102,
+      "date": 132443282102048455
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/LANDRATSAMT_HEF_6.PNG.DDS",
+      "size": 174904,
+      "date": 132443282070365457
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/LANDRATSAMT_HEF_6.PNG.DDS.json",
+      "size": 102,
+      "date": 132443282070355480
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/LANDRATSAMT_HEF_7.PNG.DDS",
+      "size": 349672,
+      "date": 132443282093695382
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/LANDRATSAMT_HEF_7.PNG.DDS.json",
+      "size": 102,
+      "date": 132443282093685379
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/LANDRATSAMT_HEF_8.PNG.DDS",
+      "size": 43832,
+      "date": 132443282065485490
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/LANDRATSAMT_HEF_8.PNG.DDS.json",
+      "size": 102,
+      "date": 132443282065475462
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/LANDRATSAMT_HEF_9.PNG.DDS",
+      "size": 43832,
+      "date": 132443282080033327
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/LANDRATSAMT_HEF_9.PNG.DDS.json",
+      "size": 102,
+      "date": 132443282080023324
+    },
+    {
       "path": "scenery/global/scenery/TEXTURE/LIBRI_TEXTURE_0.PNG.DDS",
       "size": 22369776,
       "date": 132428383215440006
@@ -2064,6 +2364,186 @@
       "path": "scenery/global/scenery/TEXTURE/MERKUR_SPIELOTHEK_TEXTURE_3.PNG.DDS.json",
       "size": 102,
       "date": 132428383276090656
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/MSO_0.PNG.DDS",
+      "size": 174904,
+      "date": 132444915740697677
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/MSO_0.PNG.DDS.json",
+      "size": 102,
+      "date": 132444915740647669
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/MSO_1.PNG.DDS",
+      "size": 349672,
+      "date": 132444915766343631
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/MSO_1.PNG.DDS.json",
+      "size": 102,
+      "date": 132444915766333635
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/MSO_10.PNG.DDS",
+      "size": 1398248,
+      "date": 132444915745317167
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/MSO_10.PNG.DDS.json",
+      "size": 102,
+      "date": 132444915745307157
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/MSO_11.PNG.DDS",
+      "size": 699192,
+      "date": 132444915734139294
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/MSO_11.PNG.DDS.json",
+      "size": 102,
+      "date": 132444915734129307
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/MSO_12.PNG.DDS",
+      "size": 11184976,
+      "date": 132444915756703460
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/MSO_12.PNG.DDS.json",
+      "size": 119,
+      "date": 132444915756583466
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/MSO_13.PNG.DDS",
+      "size": 174904,
+      "date": 132444915736957675
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/MSO_13.PNG.DDS.json",
+      "size": 102,
+      "date": 132444915736947675
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/MSO_14.PNG.DDS",
+      "size": 699192,
+      "date": 132444915765113631
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/MSO_14.PNG.DDS.json",
+      "size": 102,
+      "date": 132444915765104862
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/MSO_2.PNG.DDS",
+      "size": 349672,
+      "date": 132444915739927679
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/MSO_2.PNG.DDS.json",
+      "size": 102,
+      "date": 132444915739917674
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/MSO_3.PNG.DDS",
+      "size": 2796368,
+      "date": 132444915763203648
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/MSO_3.PNG.DDS.json",
+      "size": 119,
+      "date": 132444915763173630
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/MSO_4.PNG.DDS",
+      "size": 699208,
+      "date": 132444915732199119
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/MSO_4.PNG.DDS.json",
+      "size": 102,
+      "date": 132444915732189128
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/MSO_5.PNG.DDS",
+      "size": 349704,
+      "date": 132444915741817675
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/MSO_5.PNG.DDS.json",
+      "size": 102,
+      "date": 132444915741807677
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/MSO_6.PNG.DDS",
+      "size": 699208,
+      "date": 132444915736247671
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/MSO_6.PNG.DDS.json",
+      "size": 102,
+      "date": 132444915736237683
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/MSO_7.PNG.DDS",
+      "size": 349704,
+      "date": 132444915746467159
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/MSO_7.PNG.DDS.json",
+      "size": 102,
+      "date": 132444915746457168
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/MSO_8.PNG.DDS",
+      "size": 699192,
+      "date": 132444915738807673
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/MSO_8.PNG.DDS.json",
+      "size": 102,
+      "date": 132444915738797673
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/MSO_9.PNG.DDS",
+      "size": 1398248,
+      "date": 132444915759833639
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/MSO_9.PNG.DDS.json",
+      "size": 102,
+      "date": 132444915759813629
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/MSO_CAMPUS_0.PNG.DDS",
+      "size": 174920,
+      "date": 132444915769293639
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/MSO_CAMPUS_0.PNG.DDS.json",
+      "size": 102,
+      "date": 132444915769273637
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/MSO_CAMPUS_1.PNG.DDS",
+      "size": 11184976,
+      "date": 132444915779787844
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/MSO_CAMPUS_1.PNG.DDS.json",
+      "size": 119,
+      "date": 132444915779697841
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/MSO_CAMPUS_2.PNG.DDS",
+      "size": 699192,
+      "date": 132444915768473631
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/MSO_CAMPUS_2.PNG.DDS.json",
+      "size": 102,
+      "date": 132444915768243628
     },
     {
       "path": "scenery/global/scenery/TEXTURE/NORMA_REILOS_TEXTURE_0.PNG.DDS",
@@ -2306,74 +2786,454 @@
       "date": 132428383377759663
     },
     {
+      "path": "scenery/global/scenery/TEXTURE/RS_COMPONENTS_HEF_TEXTURE_0.PNG.DDS",
+      "size": 11184952,
+      "date": 132431927641404520
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/RS_COMPONENTS_HEF_TEXTURE_0.PNG.DDS.json",
+      "size": 102,
+      "date": 132431927641304483
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/RS_COMPONENTS_HEF_TEXTURE_1.PNG.DDS",
+      "size": 349672,
+      "date": 132431927672482953
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/RS_COMPONENTS_HEF_TEXTURE_1.PNG.DDS.json",
+      "size": 102,
+      "date": 132431927672472966
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/RS_COMPONENTS_HEF_TEXTURE_10.PNG.DDS",
+      "size": 2796360,
+      "date": 132431927671262971
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/RS_COMPONENTS_HEF_TEXTURE_10.PNG.DDS.json",
+      "size": 102,
+      "date": 132431927671212953
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/RS_COMPONENTS_HEF_TEXTURE_11.PNG.DDS",
+      "size": 2796360,
+      "date": 132431927623693241
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/RS_COMPONENTS_HEF_TEXTURE_11.PNG.DDS.json",
+      "size": 102,
+      "date": 132431927623653234
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/RS_COMPONENTS_HEF_TEXTURE_12.PNG.DDS",
+      "size": 2796360,
+      "date": 132431927677945990
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/RS_COMPONENTS_HEF_TEXTURE_12.PNG.DDS.json",
+      "size": 102,
+      "date": 132431927677915999
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/RS_COMPONENTS_HEF_TEXTURE_13.PNG.DDS",
+      "size": 2796360,
+      "date": 132431927648614757
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/RS_COMPONENTS_HEF_TEXTURE_13.PNG.DDS.json",
+      "size": 102,
+      "date": 132431927648574761
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/RS_COMPONENTS_HEF_TEXTURE_2.PNG.DDS",
+      "size": 174904,
+      "date": 132431927649264766
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/RS_COMPONENTS_HEF_TEXTURE_2.PNG.DDS.json",
+      "size": 102,
+      "date": 132431927649254765
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/RS_COMPONENTS_HEF_TEXTURE_3.PNG.DDS",
+      "size": 2796360,
+      "date": 132431927684873897
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/RS_COMPONENTS_HEF_TEXTURE_3.PNG.DDS.json",
+      "size": 102,
+      "date": 132431927684713902
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/RS_COMPONENTS_HEF_TEXTURE_4.PNG.DDS",
+      "size": 2796360,
+      "date": 132431927665720876
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/RS_COMPONENTS_HEF_TEXTURE_4.PNG.DDS.json",
+      "size": 102,
+      "date": 132431927665690881
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/RS_COMPONENTS_HEF_TEXTURE_5.PNG.DDS",
+      "size": 11184976,
+      "date": 132431927707099849
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/RS_COMPONENTS_HEF_TEXTURE_5.PNG.DDS.json",
+      "size": 119,
+      "date": 132431927706999863
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/RS_COMPONENTS_HEF_TEXTURE_6.PNG.DDS",
+      "size": 2796360,
+      "date": 132431927660245311
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/RS_COMPONENTS_HEF_TEXTURE_6.PNG.DDS.json",
+      "size": 102,
+      "date": 132431927660215279
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/RS_COMPONENTS_HEF_TEXTURE_7.PNG.DDS",
+      "size": 2796360,
+      "date": 132431927696039042
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/RS_COMPONENTS_HEF_TEXTURE_7.PNG.DDS.json",
+      "size": 102,
+      "date": 132431927696009041
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/RS_COMPONENTS_HEF_TEXTURE_8.PNG.DDS",
+      "size": 2796360,
+      "date": 132431927654829077
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/RS_COMPONENTS_HEF_TEXTURE_8.PNG.DDS.json",
+      "size": 102,
+      "date": 132431927654799085
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/RS_COMPONENTS_HEF_TEXTURE_9.PNG.DDS",
+      "size": 2796360,
+      "date": 132431927690483907
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/RS_COMPONENTS_HEF_TEXTURE_9.PNG.DDS.json",
+      "size": 102,
+      "date": 132431927690453909
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/RS_COMPONENTS_TEXTURE_0.PNG.DDS",
+      "size": 2796360,
+      "date": 132443282175920968
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/RS_COMPONENTS_TEXTURE_0.PNG.DDS.json",
+      "size": 102,
+      "date": 132443282175750968
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/RS_COMPONENTS_TEXTURE_1.PNG.DDS",
+      "size": 2796360,
+      "date": 132443282139667101
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/RS_COMPONENTS_TEXTURE_1.PNG.DDS.json",
+      "size": 102,
+      "date": 132443282139507104
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/RS_COMPONENTS_TEXTURE_10.PNG.DDS",
+      "size": 2796360,
+      "date": 132443282157710956
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/RS_COMPONENTS_TEXTURE_10.PNG.DDS.json",
+      "size": 102,
+      "date": 132443282157590958
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/RS_COMPONENTS_TEXTURE_11.PNG.DDS",
+      "size": 174904,
+      "date": 132443282183151427
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/RS_COMPONENTS_TEXTURE_11.PNG.DDS.json",
+      "size": 102,
+      "date": 132443282183131416
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/RS_COMPONENTS_TEXTURE_12.PNG.DDS",
+      "size": 2796360,
+      "date": 132443282148649804
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/RS_COMPONENTS_TEXTURE_12.PNG.DDS.json",
+      "size": 102,
+      "date": 132443282148419804
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/RS_COMPONENTS_TEXTURE_13.PNG.DDS",
+      "size": 2796360,
+      "date": 132443282181161426
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/RS_COMPONENTS_TEXTURE_13.PNG.DDS.json",
+      "size": 102,
+      "date": 132443282181131420
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/RS_COMPONENTS_TEXTURE_14.PNG.DDS",
+      "size": 11184976,
+      "date": 132443282117306964
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/RS_COMPONENTS_TEXTURE_14.PNG.DDS.json",
+      "size": 119,
+      "date": 132443282117006949
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/RS_COMPONENTS_TEXTURE_15.PNG.DDS",
+      "size": 2796360,
+      "date": 132443282169305881
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/RS_COMPONENTS_TEXTURE_15.PNG.DDS.json",
+      "size": 102,
+      "date": 132443282169265875
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/RS_COMPONENTS_TEXTURE_16.PNG.DDS",
+      "size": 2796360,
+      "date": 132443282134234117
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/RS_COMPONENTS_TEXTURE_16.PNG.DDS.json",
+      "size": 102,
+      "date": 132443282134074109
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/RS_COMPONENTS_TEXTURE_2.PNG.DDS",
+      "size": 2796360,
+      "date": 132443282163134233
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/RS_COMPONENTS_TEXTURE_2.PNG.DDS.json",
+      "size": 102,
+      "date": 132443282163094221
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/RS_COMPONENTS_TEXTURE_3.PNG.DDS",
+      "size": 2796360,
+      "date": 132443282123241807
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/RS_COMPONENTS_TEXTURE_3.PNG.DDS.json",
+      "size": 102,
+      "date": 132443282123071804
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/RS_COMPONENTS_TEXTURE_4.PNG.DDS",
+      "size": 349672,
+      "date": 132443282182391434
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/RS_COMPONENTS_TEXTURE_4.PNG.DDS.json",
+      "size": 102,
+      "date": 132443282182381411
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/RS_COMPONENTS_TEXTURE_5.PNG.DDS",
+      "size": 174904,
+      "date": 132443282140937108
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/RS_COMPONENTS_TEXTURE_5.PNG.DDS.json",
+      "size": 102,
+      "date": 132443282140917118
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/RS_COMPONENTS_TEXTURE_6.PNG.DDS",
+      "size": 184,
+      "date": 132443282183471447
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/RS_COMPONENTS_TEXTURE_6.PNG.DDS.json",
+      "size": 102,
+      "date": 132443282183461433
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/RS_COMPONENTS_TEXTURE_7.PNG.DDS",
+      "size": 699192,
+      "date": 132443282150435117
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/RS_COMPONENTS_TEXTURE_7.PNG.DDS.json",
+      "size": 102,
+      "date": 132443282150335097
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/RS_COMPONENTS_TEXTURE_8.PNG.DDS",
+      "size": 174904,
+      "date": 132443282170225869
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/RS_COMPONENTS_TEXTURE_8.PNG.DDS.json",
+      "size": 102,
+      "date": 132443282170215861
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/RS_COMPONENTS_TEXTURE_9.PNG.DDS",
+      "size": 2796360,
+      "date": 132443282128859972
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/RS_COMPONENTS_TEXTURE_9.PNG.DDS.json",
+      "size": 102,
+      "date": 132443282128679980
+    },
+    {
       "path": "scenery/global/scenery/TEXTURE/SCHILDEPARK_FENSTERPARADIES_TEXTURE_0.PNG.DDS",
       "size": 5592560,
-      "date": 132428383385865429
+      "date": 132443282191659960
     },
     {
       "path": "scenery/global/scenery/TEXTURE/SCHILDEPARK_FENSTERPARADIES_TEXTURE_0.PNG.DDS.json",
       "size": 119,
-      "date": 132428383385775418
+      "date": 132443282191354842
     },
     {
       "path": "scenery/global/scenery/TEXTURE/SCHILDEPARK_FENSTERPARADIES_TEXTURE_1.PNG.DDS",
       "size": 174920,
-      "date": 132428383379219661
+      "date": 132443282185801420
     },
     {
       "path": "scenery/global/scenery/TEXTURE/SCHILDEPARK_FENSTERPARADIES_TEXTURE_1.PNG.DDS.json",
       "size": 102,
-      "date": 132428383379209663
+      "date": 132443282185791419
     },
     {
       "path": "scenery/global/scenery/TEXTURE/SCHILDEPARK_FENSTERPARADIES_TEXTURE_2.PNG.DDS",
       "size": 22024,
-      "date": 132428383379679671
+      "date": 132443282186341408
     },
     {
       "path": "scenery/global/scenery/TEXTURE/SCHILDEPARK_FENSTERPARADIES_TEXTURE_2.PNG.DDS.json",
       "size": 102,
-      "date": 132428383379669666
+      "date": 132443282186341408
     },
     {
       "path": "scenery/global/scenery/TEXTURE/SCHILDEPARK_FENSTERPARADIES_TEXTURE_3.PNG.DDS",
       "size": 21992,
-      "date": 132428383378599675
+      "date": 132443282184981415
     },
     {
       "path": "scenery/global/scenery/TEXTURE/SCHILDEPARK_FENSTERPARADIES_TEXTURE_3.PNG.DDS.json",
       "size": 102,
-      "date": 132428383378589668
+      "date": 132443282184781423
     },
     {
       "path": "scenery/global/scenery/TEXTURE/SCHILDEPARK_FENSTERPARADIES_TEXTURE_4.PNG.DDS",
       "size": 699192,
-      "date": 132428383388315419
+      "date": 132443282193670128
     },
     {
       "path": "scenery/global/scenery/TEXTURE/SCHILDEPARK_FENSTERPARADIES_TEXTURE_4.PNG.DDS.json",
       "size": 102,
-      "date": 132428383388305419
+      "date": 132443282193480119
     },
     {
       "path": "scenery/global/scenery/TEXTURE/SCHILDEPARK_FENSTERPARADIES_TEXTURE_5.PNG.DDS",
       "size": 21992,
-      "date": 132428383379449672
+      "date": 132443282186071415
     },
     {
       "path": "scenery/global/scenery/TEXTURE/SCHILDEPARK_FENSTERPARADIES_TEXTURE_5.PNG.DDS.json",
       "size": 102,
-      "date": 132428383379439674
+      "date": 132443282186061424
     },
     {
       "path": "scenery/global/scenery/TEXTURE/SCHILDEPARK_FENSTERPARADIES_TEXTURE_6.PNG.DDS",
       "size": 2872,
-      "date": 132428383388525423
+      "date": 132443282193810125
     },
     {
       "path": "scenery/global/scenery/TEXTURE/SCHILDEPARK_FENSTERPARADIES_TEXTURE_6.PNG.DDS.json",
       "size": 102,
-      "date": 132428383388516955
+      "date": 132443282193810125
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SCHILDEPARK_FNSTRPRDS_0.PNG.DDS",
+      "size": 5592560,
+      "date": 132444750294499377
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SCHILDEPARK_FNSTRPRDS_0.PNG.DDS.json",
+      "size": 119,
+      "date": 132444750294449377
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SCHILDEPARK_FNSTRPRDS_1.PNG.DDS",
+      "size": 174920,
+      "date": 132444750286902952
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SCHILDEPARK_FNSTRPRDS_1.PNG.DDS.json",
+      "size": 102,
+      "date": 132444750286892943
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SCHILDEPARK_FNSTRPRDS_2.PNG.DDS",
+      "size": 22024,
+      "date": 132444750289484347
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SCHILDEPARK_FNSTRPRDS_2.PNG.DDS.json",
+      "size": 102,
+      "date": 132444750289474352
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SCHILDEPARK_FNSTRPRDS_3.PNG.DDS",
+      "size": 21992,
+      "date": 132444750286052945
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SCHILDEPARK_FNSTRPRDS_3.PNG.DDS.json",
+      "size": 102,
+      "date": 132444750286022944
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SCHILDEPARK_FNSTRPRDS_4.PNG.DDS",
+      "size": 699192,
+      "date": 132444750288894351
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SCHILDEPARK_FNSTRPRDS_4.PNG.DDS.json",
+      "size": 102,
+      "date": 132444750288884354
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SCHILDEPARK_FNSTRPRDS_5.PNG.DDS",
+      "size": 21992,
+      "date": 132444750285732946
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SCHILDEPARK_FNSTRPRDS_5.PNG.DDS.json",
+      "size": 102,
+      "date": 132444750285722951
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SCHILDEPARK_FNSTRPRDS_6.PNG.DDS",
+      "size": 2872,
+      "date": 132444750289264352
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/SCHILDEPARK_FNSTRPRDS_6.PNG.DDS.json",
+      "size": 102,
+      "date": 132444750289224348
     },
     {
       "path": "scenery/global/scenery/TEXTURE/SCHILDEPARK_HZ_KA_TEXTURE_0.PNG.DDS",
@@ -2966,6 +3826,16 @@
       "date": 132428383654650208
     },
     {
+      "path": "scenery/global/scenery/TEXTURE/UNTITLED.PNG.DDS",
+      "size": 699236,
+      "date": 132431676691223281
+    },
+    {
+      "path": "scenery/global/scenery/TEXTURE/UNTITLED.PNG.DDS.json",
+      "size": 159,
+      "date": 132431676691206955
+    },
+    {
       "path": "scenery/global/scenery/TEXTURE/VIA_HEF_TEXTURE_0.PNG.DDS",
       "size": 349704,
       "date": 132428383679917511
@@ -2987,13 +3857,13 @@
     },
     {
       "path": "scenery/world/scenery/EDEN.bgl",
-      "size": 180850,
-      "date": 132428422318944889
+      "size": 185266,
+      "date": 132444917730237940
     },
     {
       "path": "scenery/world/scenery/EDENSHP.BGL",
-      "size": 12626,
-      "date": 132428422320783652
+      "size": 13917,
+      "date": 132444917731855280
     }
   ]
 }

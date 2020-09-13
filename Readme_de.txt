@@ -1,9 +1,10 @@
-EDEN Bad Hersfeld Johannesberg und Umgebung für Microsoft Flight Simulator 2020
-von Christoph Jurczyk
+EDEN Bad Hersfeld Johannesberg und Umgebung für Microsoft Flight Simulator 2020 von Christoph Jurczyk
 https://github.com/christophjurczyk
+cjscenery@gmail.com
 
 Version 1.0
 25.08.2020
+GPL-3.0 License
 
 Der Sonderlandeplatz EDEN in Bad Hersfeld befindet sich auf dem Johannesberg.(N50°50´41”   E09°42´26” GPS Elevation 932ft (284m)). Er verfügt über eine geneigte Bahn von 3,15%, welche Starts und Landungen sehr interessant macht. Weitere  
 Informationen und Anflugkarten findet ihr unter: 
