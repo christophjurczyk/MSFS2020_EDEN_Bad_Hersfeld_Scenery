@@ -1,0 +1,20 @@
+{
+  "package-name": "cjscenery-scenery-eden-bad-hersfeld-rotenburg",
+  "items": [
+    {
+      "type": "Poi",
+      "content": "{CED7A3D3-3810-4728-8DFD-B042FE5B3DEC}",
+      "revision": 1
+    },
+    {
+      "type": "Airport",
+      "content": "EDEN",
+      "revision": 1
+    },
+    {
+      "type": "Airport",
+      "content": "EDKJ",
+      "revision": 1
+    }
+  ]
+}
