@@ -54,13 +54,4 @@ Landratsamt Hersfeld-Rotenburg | 50.871706, 9.716047 |
 Modellschule Obersberg | 50.873321, 9.732672 |
 
 ## Important Information:
-- This scenery is FREEWARE.
-- This scenery IS FORBIDDEN to be sold!
-- This scenery IS FORBIDDEN to be distributed via internet sites / mailboxes that charge fees to the user.
-- This scenery IS FORBIDDEN to be distributed or used commercially.
-- This scenery IS FORBIDDEN to be distributed on data media for which fees are charged.
-- This scenery IS FORBIDDEN to be decompiled!
-- This scenery SHALL ONLY be used at your own risk, the author does not take any responsibility for any damage resulting from its use.
-- This scenery MUST be used extensively :) .
-
 The objects were created with Sketchup (https://www.sketchup.com/) and Blender (https://www.blender.org/), converted with the ModelconvertX (https://www.scenerydesign.org/modelconverterx/) and the Blender2MSFS (https://www.fsdeveloper.com/forum/resources/blender2msfs-toolkit.256/). Textures were partly created by myself or come from textures.com or texturelib.com.
