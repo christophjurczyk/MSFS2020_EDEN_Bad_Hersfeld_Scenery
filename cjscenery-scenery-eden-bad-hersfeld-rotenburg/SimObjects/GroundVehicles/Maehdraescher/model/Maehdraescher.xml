@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ModelInfo guid="{f0eca6c2-4f40-4421-8a55-7df7af232fbf}" version="1.1">
+	<LODS>
+		<LOD minSize="0" ModelFile="Maehdraescher.gltf" />
+	</LODS>
+	
+	<Animation name="Wheel_Rotation" guid="f23bbdc6-a426-489c-83d4-99f078e79fe7" type="Standard" />
+	<Animation name="Wheel_Orientation" guid="28c2e0e4-81b0-44db-931d-4fc43a5b355f" type="Standard" />
+	
+	<Behaviors>
+		<Include ModelBehaviorFile="Asobo\Misc\GroundVehicles.xml" />
+				
+		<Component ID="Component_Draescher" Node="node0">		
+			<UseTemplate Name="ASOBO_GT_Visibility">
+				<VISIBILITY_CODE>(E:LOCAL MONTH OF YEAR, number) 7 &gt;= (E:LOCAL MONTH OF YEAR, number) 9 &lt;= (E:TIME OF DAY,enum) 1 == and and if{ 1 } els{ 0 }</VISIBILITY_CODE>
+			</UseTemplate>
+		</Component>
+		
+		<Component ID="Wheels">
+			<UseTemplate Name="ASOBO_Wheel_Roll">
+				<ANIM_NAME>Wheel_Rotation</ANIM_NAME>
+				<WHEEL_RADIUS>1.0</WHEEL_RADIUS>
+				<!-- in meters -->
+			</UseTemplate>
+			
+			<UseTemplate Name="ASOBO_Wheel_Turn">
+				<ANIM_NAME>Wheel_Orientation</ANIM_NAME>
+				<ORDER_MULTIPLIER>-1</ORDER_MULTIPLIER>
+				<!-- 1 if first frame of animation is turning left, -1 if turning right -->
+				<PERCENT_PER_SECOND>100</PERCENT_PER_SECOND>
+				<!-- speed of the anim in percent per second. 100 means from max left to max right in 1 second -->
+			</UseTemplate>
+			
+		</Component>
+	</Behaviors>
+</ModelInfo>

@@ -3,7 +3,7 @@
 The airfield EDEN - Bad Hersfeld is located on the Johannesberg (N50°50'41" E09°42'26" GPS elevation 932ft (284m)). It has a runway with a slope of 3.15%. Further information and approach charts can be found here: 
 https://mfc-badhersfeld.de/flugplatz
 
-![EDEN - Bad Hersfeld](https://raw.githubusercontent.com/christophjurczyk/MSFS2020_EDEN_Bad_Hersfeld_Scenery/master/screenshots/EDEN1.jpg)
+![EDEN - Bad Hersfeld](https://raw.githubusercontent.com/christophjurczyk/MSFS2020_EDEN_Bad_Hersfeld_Scenery/master/screenshots/EDEN_1.jpg)
 
 Besides the naming airfield EDEN, since v1.20 the airfield EDKJ Langenberg (Hattenbach) is available.
 Further information can be found here: 
@@ -41,14 +41,20 @@ Aral Bad Hersfeld | 50.8621178, 9.7218766 |
 Asteelflash | 50.870494, 9.722906 |
 Besengrundcenter | 50.904698, 9.745694 |
 DHL Mecklar | 50.920835, 9.773675 |
+Eisenberg Fernmeldeturm | 50.886216, 9.511917 |
 Eisenbahnmuseum Bebra | 50.9643907, 9.8029734 |
+Esso Rudolf-Diese-Straße, Bad Hersfeld | 50.852780, 9.725865 |
 Former US-Army Barracks Hohe Luft (McPheeters Barracks) | 50.859098, 9.730456 |
 Grenzebach BSH | 50.857711, 9.741226 | 
+Harvester (moving from July to September) | 50.845266, 9.711875 | 
+Harvester (moving from July to September) | 50.882200, 9.712848 | 
+Harvester (moving from July to September) | 50.802528, 9.565055 | 
 High-Speed Railway Bridges Niederaula | 50.780701, 9.596241 |
 Industrial Site Bingartes | 50.856893, 9.710148 |
 Industrial Site Blaue Linde | 50.846918, 9.727435 |
 Landratsamt Hersfeld-Rotenburg | 50.871706, 9.716047 |
 Lomo Tank | 50.873825, 9.718936 |
+McDonals Bad Hersfeld | 50.862069, 9.720283 |
 Modellschule Obersberg | 50.873321, 9.732672 |
 Municipal Church Bad Hersfeld | 50.868565, 9.707188 |
 Railway Station Bad Hersfeld | 50.870109, 9.716285 |
@@ -59,9 +65,16 @@ Schildepark | 50.871135, 9.708937 |
 St. Lullus Sturmius Church | 50.870921, 9.712601 |
 Stiftsruine Bad Hersfeld | 50.866497, 9.702784 |
 Studienzentrum Rotenburg | 50.991082, 9.731213 |
+Surprise (visible during snow season) | 50.844457, 9.707169 |
 Toom Bebra | 50.960709, 9.795515 |
 Via, Expert Klein, Möbel-Direkt | 50.866264, 9.716971 |
 
+## License:
+The scenery is provided under following [license](https://github.com/christophjurczyk/MSFS2020_EDEN_Bad_Hersfeld_Scenery/blob/master/LICENSE).
 
-## Important Information:
-The objects were created with Sketchup (https://www.sketchup.com/) and Blender (https://www.blender.org/), converted with the ModelconvertX (https://www.scenerydesign.org/modelconverterx/) and the Blender2MSFS (https://www.fsdeveloper.com/forum/resources/blender2msfs-toolkit.256/). Textures were partly created by myself or come from textures.com or texturelib.com.
+
+## Special Thanks:
+The objects were created with [Sketchup](https://www.sketchup.com/) and [Blender](https://www.blender.org/), converted with the [ModelconvertX](https://www.scenerydesign.org/modelconverterx/) and the [MSFS SDK Blender Plugin](https://docs.flightsimulator.com/html/Asset_Creation/Blender_Plugin/The_Blender_Plugin.htm?agt=index). Textures were partly created by myself or used from textures.com. Thanks to [mamudesign](https://de.flightsim.to/profile/mamu82) for all his tutorials and tools.
+
+## Contact:
+Please use the Github [Issues](https://github.com/christophjurczyk/MSFS2020_EDEN_Bad_Hersfeld_Scenery/issues) to report bugs or any other issue. To contact me, write a mail to ![mail](https://raw.githubusercontent.com/christophjurczyk/MSFS2020_EDEN_Bad_Hersfeld_Scenery/master/mail.png)

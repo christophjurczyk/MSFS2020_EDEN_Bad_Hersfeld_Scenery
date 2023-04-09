@@ -3,6 +3,21 @@
   "items": [
     {
       "type": "Poi",
+      "content": "{C08030A6-0610-4F3C-8504-77B6723C5DA3}",
+      "revision": 1
+    },
+    {
+      "type": "Poi",
+      "content": "{749E83BC-E8BC-4326-8B1C-0802C1BAF0E5}",
+      "revision": 1
+    },
+    {
+      "type": "Poi",
+      "content": "{251397A7-B6F7-4841-9B2D-5E9CC49F3F71}",
+      "revision": 1
+    },
+    {
+      "type": "Poi",
       "content": "{CED7A3D3-3810-4728-8DFD-B042FE5B3DEC}",
       "revision": 1
     },

@@ -2,8 +2,8 @@
   "content": [
     {
       "path": "ContentInfo/cjscenery-scenery-eden-bad-hersfeld-rotenburg/ContentHistory.json",
-      "size": 365,
-      "date": 133132745678878927
+      "size": 704,
+      "date": 133255244011907721
     },
     {
       "path": "ContentInfo/cjscenery-scenery-eden-bad-hersfeld-rotenburg/Thumbnail.jpg",
@@ -11,164 +11,179 @@
       "date": 132428398275368396
     },
     {
-      "path": "MaterialLibs/mymaterials/Library.xml",
+      "path": "MaterialLibs/eden_materials/Library.xml",
       "size": 10928,
-      "date": 133132726033031500
+      "date": 133255241870780380
     },
     {
-      "path": "MaterialLibs/mymaterials/textures/18.png.DDS",
+      "path": "MaterialLibs/eden_materials/textures/18.png.DDS",
       "size": 5592580,
       "date": 132607466360694568
     },
     {
-      "path": "MaterialLibs/mymaterials/textures/18.png.DDS.FLAGS",
+      "path": "MaterialLibs/eden_materials/textures/18.png.DDS.FLAGS",
       "size": 39,
       "date": 132607510903526940
     },
     {
-      "path": "MaterialLibs/mymaterials/textures/18.png.DDS.json",
+      "path": "MaterialLibs/eden_materials/textures/18.png.DDS.json",
       "size": 198,
       "date": 132607466360694568
     },
     {
-      "path": "MaterialLibs/mymaterials/textures/36.png.DDS",
+      "path": "MaterialLibs/eden_materials/textures/36.png.DDS",
       "size": 5592580,
       "date": 132607121920259026
     },
     {
-      "path": "MaterialLibs/mymaterials/textures/36.png.DDS.FLAGS",
+      "path": "MaterialLibs/eden_materials/textures/36.png.DDS.FLAGS",
       "size": 39,
       "date": 132607511053737331
     },
     {
-      "path": "MaterialLibs/mymaterials/textures/36.png.DDS.json",
+      "path": "MaterialLibs/eden_materials/textures/36.png.DDS.json",
       "size": 198,
       "date": 132607121920259026
     },
     {
-      "path": "MaterialLibs/mymaterials/textures/centerline.png.DDS",
+      "path": "MaterialLibs/eden_materials/textures/centerline.png.DDS",
       "size": 22369796,
       "date": 132607139324456131
     },
     {
-      "path": "MaterialLibs/mymaterials/textures/centerline.png.DDS.FLAGS",
+      "path": "MaterialLibs/eden_materials/textures/centerline.png.DDS.FLAGS",
       "size": 39,
       "date": 132607523908184201
     },
     {
-      "path": "MaterialLibs/mymaterials/textures/centerline.png.DDS.json",
+      "path": "MaterialLibs/eden_materials/textures/centerline.png.DDS.json",
       "size": 249,
       "date": 132607139324456131
     },
     {
-      "path": "MaterialLibs/mymaterials/textures/grid_north.png.DDS",
+      "path": "MaterialLibs/eden_materials/textures/grid_north.png.DDS",
       "size": 1398276,
       "date": 132607488790333074
     },
     {
-      "path": "MaterialLibs/mymaterials/textures/grid_north.png.DDS.FLAGS",
+      "path": "MaterialLibs/eden_materials/textures/grid_north.png.DDS.FLAGS",
       "size": 39,
       "date": 132607511404747727
     },
     {
-      "path": "MaterialLibs/mymaterials/textures/grid_north.png.DDS.json",
+      "path": "MaterialLibs/eden_materials/textures/grid_north.png.DDS.json",
       "size": 249,
       "date": 132607488790333074
     },
     {
-      "path": "MaterialLibs/mymaterials/textures/grid_south.png.DDS",
+      "path": "MaterialLibs/eden_materials/textures/grid_south.png.DDS",
       "size": 1398276,
       "date": 132607490030515484
     },
     {
-      "path": "MaterialLibs/mymaterials/textures/grid_south.png.DDS.FLAGS",
+      "path": "MaterialLibs/eden_materials/textures/grid_south.png.DDS.FLAGS",
       "size": 39,
       "date": 132607511616385825
     },
     {
-      "path": "MaterialLibs/mymaterials/textures/grid_south.png.DDS.json",
+      "path": "MaterialLibs/eden_materials/textures/grid_south.png.DDS.json",
       "size": 249,
       "date": 132607490030515484
     },
     {
-      "path": "MaterialLibs/mymaterials/textures/holdingline_mid.png.DDS",
+      "path": "MaterialLibs/eden_materials/textures/holdingline_mid.png.DDS",
       "size": 5592580,
       "date": 132607068660961360
     },
     {
-      "path": "MaterialLibs/mymaterials/textures/holdingline_mid.png.DDS.FLAGS",
+      "path": "MaterialLibs/eden_materials/textures/holdingline_mid.png.DDS.FLAGS",
       "size": 39,
       "date": 132607511722194099
     },
     {
-      "path": "MaterialLibs/mymaterials/textures/holdingline_mid.png.DDS.json",
+      "path": "MaterialLibs/eden_materials/textures/holdingline_mid.png.DDS.json",
       "size": 221,
       "date": 132607068660961360
     },
     {
-      "path": "MaterialLibs/mymaterials/textures/holdingline_north.png.DDS",
+      "path": "MaterialLibs/eden_materials/textures/holdingline_north.png.DDS",
       "size": 1398276,
       "date": 132607081876644142
     },
     {
-      "path": "MaterialLibs/mymaterials/textures/holdingline_north.png.DDS.FLAGS",
+      "path": "MaterialLibs/eden_materials/textures/holdingline_north.png.DDS.FLAGS",
       "size": 39,
       "date": 132607511873965996
     },
     {
-      "path": "MaterialLibs/mymaterials/textures/holdingline_north.png.DDS.json",
+      "path": "MaterialLibs/eden_materials/textures/holdingline_north.png.DDS.json",
       "size": 221,
       "date": 132607081876644142
     },
     {
-      "path": "MaterialLibs/mymaterials/textures/holdingline_south.png.DDS",
+      "path": "MaterialLibs/eden_materials/textures/holdingline_south.png.DDS",
       "size": 5592580,
       "date": 132607070829875667
     },
     {
-      "path": "MaterialLibs/mymaterials/textures/holdingline_south.png.DDS.FLAGS",
+      "path": "MaterialLibs/eden_materials/textures/holdingline_south.png.DDS.FLAGS",
       "size": 39,
       "date": 132607511961777140
     },
     {
-      "path": "MaterialLibs/mymaterials/textures/holdingline_south.png.DDS.json",
+      "path": "MaterialLibs/eden_materials/textures/holdingline_south.png.DDS.json",
       "size": 221,
       "date": 132607070829875667
     },
     {
-      "path": "MaterialLibs/mymaterials/textures/marking_cross.png.DDS",
+      "path": "MaterialLibs/eden_materials/textures/marking_cross.png.DDS",
       "size": 5592580,
       "date": 132607057120040188
     },
     {
-      "path": "MaterialLibs/mymaterials/textures/marking_cross.png.DDS.FLAGS",
+      "path": "MaterialLibs/eden_materials/textures/marking_cross.png.DDS.FLAGS",
       "size": 39,
       "date": 132607512052788478
     },
     {
-      "path": "MaterialLibs/mymaterials/textures/marking_cross.png.DDS.json",
+      "path": "MaterialLibs/eden_materials/textures/marking_cross.png.DDS.json",
       "size": 249,
       "date": 132607057120040188
     },
     {
-      "path": "MaterialLibs/mymaterials/textures/Threshold.png.DDS",
+      "path": "MaterialLibs/eden_materials/textures/Threshold.png.DDS",
       "size": 1398276,
       "date": 132607466362645402
     },
     {
-      "path": "MaterialLibs/mymaterials/textures/Threshold.png.DDS.FLAGS",
+      "path": "MaterialLibs/eden_materials/textures/Threshold.png.DDS.FLAGS",
       "size": 39,
       "date": 132607512169455126
     },
     {
-      "path": "MaterialLibs/mymaterials/textures/Threshold.png.DDS.json",
+      "path": "MaterialLibs/eden_materials/textures/Threshold.png.DDS.json",
       "size": 249,
       "date": 132607466362645402
     },
     {
+      "path": "Scenarii/eden_scripts/EDEN_Maehdraescher1.spb",
+      "size": 6811,
+      "date": 133255243979901588
+    },
+    {
+      "path": "Scenarii/eden_scripts/EDEN_Maehdraescher2.spb",
+      "size": 14048,
+      "date": 133255243980420961
+    },
+    {
+      "path": "Scenarii/eden_scripts/EDEN_Maehdraescher3.spb",
+      "size": 9798,
+      "date": 133255243981202136
+    },
+    {
       "path": "scenery/global/scenery/modelLib.BGL",
-      "size": 29109602,
-      "date": 133132728006005384
+      "size": 32539278,
+      "date": 133255243978660689
     },
     {
       "path": "scenery/global/scenery/texture/Achim_Zuschlag_Achim_Zuschlag_0.png.DDS",
@@ -249,6 +264,16 @@
       "path": "scenery/global/scenery/texture/Afotek_texture_2.png.DDS.json",
       "size": 102,
       "date": 132597939628461378
+    },
+    {
+      "path": "scenery/global/scenery/texture/AirConditioning.png.DDS",
+      "size": 699192,
+      "date": 133230008825498208
+    },
+    {
+      "path": "scenery/global/scenery/texture/AirConditioning.png.DDS.json",
+      "size": 102,
+      "date": 133230008825498208
     },
     {
       "path": "scenery/global/scenery/texture/Aldi_dm_Aldi_dm_0.png.DDS",
@@ -519,6 +544,16 @@
       "path": "scenery/global/scenery/texture/AMH_2_texture_1.png.DDS.json",
       "size": 102,
       "date": 132425837725938692
+    },
+    {
+      "path": "scenery/global/scenery/texture/aral_blitz_ad.png.DDS",
+      "size": 699192,
+      "date": 133215698798568941
+    },
+    {
+      "path": "scenery/global/scenery/texture/aral_blitz_ad.png.DDS.json",
+      "size": 102,
+      "date": 133215698798568941
     },
     {
       "path": "scenery/global/scenery/texture/AralAutohof_HEF_AralShop_albedo.png.DDS",
@@ -1161,6 +1196,116 @@
       "date": 132601008865066706
     },
     {
+      "path": "scenery/global/scenery/texture/BetonAlb.png.DDS",
+      "size": 174904,
+      "date": 133227763706964258
+    },
+    {
+      "path": "scenery/global/scenery/texture/BetonAlb.png.DDS.json",
+      "size": 102,
+      "date": 133227763706964258
+    },
+    {
+      "path": "scenery/global/scenery/texture/BetonNorm.png.DDS",
+      "size": 349680,
+      "date": 133227763706954230
+    },
+    {
+      "path": "scenery/global/scenery/texture/BetonNorm.png.DDS.json",
+      "size": 160,
+      "date": 133227763706954230
+    },
+    {
+      "path": "scenery/global/scenery/texture/BetonRedAlb.png.DDS",
+      "size": 174904,
+      "date": 133227763707014416
+    },
+    {
+      "path": "scenery/global/scenery/texture/BetonRedAlb.png.DDS.json",
+      "size": 102,
+      "date": 133227763707014416
+    },
+    {
+      "path": "scenery/global/scenery/texture/BetonRough.png.DDS",
+      "size": 174904,
+      "date": 133227763706954230
+    },
+    {
+      "path": "scenery/global/scenery/texture/BetonRough.png.DDS.json",
+      "size": 166,
+      "date": 133227763706954230
+    },
+    {
+      "path": "scenery/global/scenery/texture/BricksAlb_tif.png.DDS",
+      "size": 699192,
+      "date": 133227763706934261
+    },
+    {
+      "path": "scenery/global/scenery/texture/BricksAlb_tif.png.DDS.json",
+      "size": 102,
+      "date": 133227763706934261
+    },
+    {
+      "path": "scenery/global/scenery/texture/BricksMask.png.DDS",
+      "size": 699192,
+      "date": 133227763706914180
+    },
+    {
+      "path": "scenery/global/scenery/texture/BricksMask.png.DDS.json",
+      "size": 166,
+      "date": 133227763706914180
+    },
+    {
+      "path": "scenery/global/scenery/texture/BricksNorm.png.DDS",
+      "size": 1398256,
+      "date": 133227763706904186
+    },
+    {
+      "path": "scenery/global/scenery/texture/BricksNorm.png.DDS.json",
+      "size": 160,
+      "date": 133227763706904186
+    },
+    {
+      "path": "scenery/global/scenery/texture/color_yellow.png.DDS",
+      "size": 11064,
+      "date": 133215698798548944
+    },
+    {
+      "path": "scenery/global/scenery/texture/color_yellow.png.DDS.json",
+      "size": 102,
+      "date": 133215698798548944
+    },
+    {
+      "path": "scenery/global/scenery/texture/DachAlb.png.DDS",
+      "size": 174904,
+      "date": 133232920235181644
+    },
+    {
+      "path": "scenery/global/scenery/texture/DachAlb.png.DDS.json",
+      "size": 102,
+      "date": 133232920235181644
+    },
+    {
+      "path": "scenery/global/scenery/texture/DachMask.png.DDS",
+      "size": 174904,
+      "date": 133232920235171565
+    },
+    {
+      "path": "scenery/global/scenery/texture/DachMask.png.DDS.json",
+      "size": 166,
+      "date": 133232920235171565
+    },
+    {
+      "path": "scenery/global/scenery/texture/DachNorm.png.DDS",
+      "size": 349680,
+      "date": 133232920235161621
+    },
+    {
+      "path": "scenery/global/scenery/texture/DachNorm.png.DDS.json",
+      "size": 160,
+      "date": 133232920235161621
+    },
+    {
       "path": "scenery/global/scenery/texture/DHL_Mecklar_texture_0.png.DDS",
       "size": 11184952,
       "date": 132602002286333591
@@ -1281,44 +1426,44 @@
       "date": 132602002286062470
     },
     {
-      "path": "scenery/global/scenery/texture/Dippelstrasse_HEF_texture_0.png.DDS",
-      "size": 11184976,
-      "date": 132602006286014838
-    },
-    {
-      "path": "scenery/global/scenery/texture/Dippelstrasse_HEF_texture_0.png.DDS.json",
-      "size": 119,
-      "date": 132602006286014838
-    },
-    {
-      "path": "scenery/global/scenery/texture/Dippelstrasse_HEF_texture_0_emission.png.DDS",
-      "size": 5592552,
-      "date": 132602006285984924
-    },
-    {
-      "path": "scenery/global/scenery/texture/Dippelstrasse_HEF_texture_0_emission.png.DDS.json",
-      "size": 102,
-      "date": 132602006285984924
-    },
-    {
-      "path": "scenery/global/scenery/texture/Dippelstrasse_HEF_texture_1.png.DDS",
-      "size": 11144,
-      "date": 132602006286118019
-    },
-    {
-      "path": "scenery/global/scenery/texture/Dippelstrasse_HEF_texture_1.png.DDS.json",
-      "size": 102,
-      "date": 132602006286118019
-    },
-    {
-      "path": "scenery/global/scenery/texture/Dippelstrasse_HEF_texture_2.png.DDS",
+      "path": "scenery/global/scenery/texture/Dippelstrasse_0.png.DDS",
       "size": 174904,
-      "date": 132602006286168090
+      "date": 133217455317089555
     },
     {
-      "path": "scenery/global/scenery/texture/Dippelstrasse_HEF_texture_2.png.DDS.json",
+      "path": "scenery/global/scenery/texture/Dippelstrasse_0.png.DDS.json",
       "size": 102,
-      "date": 132602006286168090
+      "date": 133217455317089555
+    },
+    {
+      "path": "scenery/global/scenery/texture/Dippelstrasse_0e.png.DDS",
+      "size": 174904,
+      "date": 133217455317079559
+    },
+    {
+      "path": "scenery/global/scenery/texture/Dippelstrasse_0e.png.DDS.json",
+      "size": 102,
+      "date": 133217455317079559
+    },
+    {
+      "path": "scenery/global/scenery/texture/Dippelstrasse_1.png.DDS",
+      "size": 11144,
+      "date": 133217455317089555
+    },
+    {
+      "path": "scenery/global/scenery/texture/Dippelstrasse_1.png.DDS.json",
+      "size": 102,
+      "date": 133217455317089555
+    },
+    {
+      "path": "scenery/global/scenery/texture/Dippelstrasse_2.png.DDS",
+      "size": 174904,
+      "date": 133217455317099545
+    },
+    {
+      "path": "scenery/global/scenery/texture/Dippelstrasse_2.png.DDS.json",
+      "size": 102,
+      "date": 133217455317099545
     },
     {
       "path": "scenery/global/scenery/texture/DuraFiber_texture_0.png.DDS",
@@ -2281,6 +2426,136 @@
       "date": 132602139792403922
     },
     {
+      "path": "scenery/global/scenery/texture/EisenTurm_Beton2_alb.png.DDS",
+      "size": 174904,
+      "date": 133230008825390699
+    },
+    {
+      "path": "scenery/global/scenery/texture/EisenTurm_Beton2_alb.png.DDS.json",
+      "size": 102,
+      "date": 133230008825390699
+    },
+    {
+      "path": "scenery/global/scenery/texture/EisenTurm_Beton2_mask.png.DDS",
+      "size": 174904,
+      "date": 133230008825370691
+    },
+    {
+      "path": "scenery/global/scenery/texture/EisenTurm_Beton2_mask.png.DDS.json",
+      "size": 166,
+      "date": 133230008825370691
+    },
+    {
+      "path": "scenery/global/scenery/texture/EisenTurm_Beton2_norm.png.DDS",
+      "size": 349680,
+      "date": 133230008825360695
+    },
+    {
+      "path": "scenery/global/scenery/texture/EisenTurm_Beton2_norm.png.DDS.json",
+      "size": 160,
+      "date": 133230008825360695
+    },
+    {
+      "path": "scenery/global/scenery/texture/EisenTurm_Beton_alb.png.DDS",
+      "size": 87528,
+      "date": 133230008825360695
+    },
+    {
+      "path": "scenery/global/scenery/texture/EisenTurm_Beton_alb.png.DDS.json",
+      "size": 102,
+      "date": 133230008825360695
+    },
+    {
+      "path": "scenery/global/scenery/texture/EisenTurm_Beton_mask.png.DDS",
+      "size": 87528,
+      "date": 133230008825350694
+    },
+    {
+      "path": "scenery/global/scenery/texture/EisenTurm_Beton_mask.png.DDS.json",
+      "size": 166,
+      "date": 133230008825350694
+    },
+    {
+      "path": "scenery/global/scenery/texture/EisenTurm_Beton_norm.png.DDS",
+      "size": 174928,
+      "date": 133230008825350694
+    },
+    {
+      "path": "scenery/global/scenery/texture/EisenTurm_Beton_norm.png.DDS.json",
+      "size": 160,
+      "date": 133230008825350694
+    },
+    {
+      "path": "scenery/global/scenery/texture/EisenTurm_Plastic_alb.png.DDS",
+      "size": 174904,
+      "date": 133230008825478059
+    },
+    {
+      "path": "scenery/global/scenery/texture/EisenTurm_Plastic_alb.png.DDS.json",
+      "size": 102,
+      "date": 133230008825478059
+    },
+    {
+      "path": "scenery/global/scenery/texture/EisenTurm_Plastic_mask.png.DDS",
+      "size": 174904,
+      "date": 133230008825471016
+    },
+    {
+      "path": "scenery/global/scenery/texture/EisenTurm_Plastic_mask.png.DDS.json",
+      "size": 166,
+      "date": 133230008825471016
+    },
+    {
+      "path": "scenery/global/scenery/texture/EisenTurm_Plastic_norm.png.DDS",
+      "size": 349680,
+      "date": 133230008825461132
+    },
+    {
+      "path": "scenery/global/scenery/texture/EisenTurm_Plastic_norm.png.DDS.json",
+      "size": 160,
+      "date": 133230008825461132
+    },
+    {
+      "path": "scenery/global/scenery/texture/EssoLKWZeichen.png.DDS",
+      "size": 1398248,
+      "date": 133227763707097599
+    },
+    {
+      "path": "scenery/global/scenery/texture/EssoLKWZeichen.png.DDS.json",
+      "size": 102,
+      "date": 133227763707097599
+    },
+    {
+      "path": "scenery/global/scenery/texture/EssoPKWZeichen.png.DDS",
+      "size": 1398248,
+      "date": 133227763707117695
+    },
+    {
+      "path": "scenery/global/scenery/texture/EssoPKWZeichen.png.DDS.json",
+      "size": 102,
+      "date": 133227763707117695
+    },
+    {
+      "path": "scenery/global/scenery/texture/EssoRed.png.DDS",
+      "size": 312,
+      "date": 133227763707097599
+    },
+    {
+      "path": "scenery/global/scenery/texture/EssoRed.png.DDS.json",
+      "size": 102,
+      "date": 133227763707097599
+    },
+    {
+      "path": "scenery/global/scenery/texture/EssoWhite.png.DDS",
+      "size": 312,
+      "date": 133227763706944238
+    },
+    {
+      "path": "scenery/global/scenery/texture/EssoWhite.png.DDS.json",
+      "size": 102,
+      "date": 133227763706944238
+    },
+    {
       "path": "scenery/global/scenery/texture/Expert_Klein_Moebel_texture_0.png.DDS",
       "size": 11184976,
       "date": 132602148935467431
@@ -2329,6 +2604,16 @@
       "path": "scenery/global/scenery/texture/Expert_Klein_Moebel_texture_2_emission.png.DDS.json",
       "size": 102,
       "date": 132602148935587531
+    },
+    {
+      "path": "scenery/global/scenery/texture/Fenster.png.DDS",
+      "size": 87536,
+      "date": 133227763707034323
+    },
+    {
+      "path": "scenery/global/scenery/texture/Fenster.png.DDS.json",
+      "size": 119,
+      "date": 133227763707034323
     },
     {
       "path": "scenery/global/scenery/texture/Fuldatalbruecke_Solms_texture_0.png.DDS",
@@ -2541,6 +2826,16 @@
       "date": 132425983749274751
     },
     {
+      "path": "scenery/global/scenery/texture/GreyPanel.png.DDS",
+      "size": 87528,
+      "date": 133227763707014416
+    },
+    {
+      "path": "scenery/global/scenery/texture/GreyPanel.png.DDS.json",
+      "size": 102,
+      "date": 133227763707014416
+    },
+    {
       "path": "scenery/global/scenery/texture/hattenbach_hangar_doorsmetalsingle0450_l.png.DDS",
       "size": 1398248,
       "date": 132927924219554449
@@ -2609,6 +2904,36 @@
       "path": "scenery/global/scenery/texture/hattenbach_hangar_texturescom_wood_sidingoutdoor6_2x2_1k_albedo.png.DDS.json",
       "size": 102,
       "date": 132927924219604729
+    },
+    {
+      "path": "scenery/global/scenery/texture/HolzPanelAlb.png.DDS",
+      "size": 174904,
+      "date": 133227763706994355
+    },
+    {
+      "path": "scenery/global/scenery/texture/HolzPanelAlb.png.DDS.json",
+      "size": 102,
+      "date": 133227763706994355
+    },
+    {
+      "path": "scenery/global/scenery/texture/HolzPanelNorm.png.DDS",
+      "size": 349680,
+      "date": 133227763706984239
+    },
+    {
+      "path": "scenery/global/scenery/texture/HolzPanelNorm.png.DDS.json",
+      "size": 160,
+      "date": 133227763706984239
+    },
+    {
+      "path": "scenery/global/scenery/texture/HolzPanelRough.png.DDS",
+      "size": 174904,
+      "date": 133227763706994355
+    },
+    {
+      "path": "scenery/global/scenery/texture/HolzPanelRough.png.DDS.json",
+      "size": 166,
+      "date": 133227763706994355
     },
     {
       "path": "scenery/global/scenery/texture/ICE_Bruecke_Niederaula_texture_0.png.DDS",
@@ -2889,6 +3214,176 @@
       "path": "scenery/global/scenery/texture/Katharinenturm_texture_0.png.DDS.json",
       "size": 119,
       "date": 132426051618737007
+    },
+    {
+      "path": "scenery/global/scenery/texture/Kessel_2.png.DDS",
+      "size": 174904,
+      "date": 133218058547026464
+    },
+    {
+      "path": "scenery/global/scenery/texture/Kessel_2.png.DDS.json",
+      "size": 102,
+      "date": 133218058547026464
+    },
+    {
+      "path": "scenery/global/scenery/texture/Kessel_2Norm.png.DDS",
+      "size": 349680,
+      "date": 133218058547016466
+    },
+    {
+      "path": "scenery/global/scenery/texture/Kessel_2Norm.png.DDS.json",
+      "size": 160,
+      "date": 133218058547016466
+    },
+    {
+      "path": "scenery/global/scenery/texture/Kessel_2Occl.png.DDS",
+      "size": 174904,
+      "date": 133218058547026464
+    },
+    {
+      "path": "scenery/global/scenery/texture/Kessel_2Occl.png.DDS.json",
+      "size": 166,
+      "date": 133218058547026464
+    },
+    {
+      "path": "scenery/global/scenery/texture/Kessel_3.png.DDS",
+      "size": 174904,
+      "date": 133218058546996574
+    },
+    {
+      "path": "scenery/global/scenery/texture/Kessel_3.png.DDS.json",
+      "size": 102,
+      "date": 133218058546996574
+    },
+    {
+      "path": "scenery/global/scenery/texture/Kessel_3Metal.png.DDS",
+      "size": 174904,
+      "date": 133218058546996574
+    },
+    {
+      "path": "scenery/global/scenery/texture/Kessel_3Metal.png.DDS.json",
+      "size": 166,
+      "date": 133218058546996574
+    },
+    {
+      "path": "scenery/global/scenery/texture/Kessel_3Norm.png.DDS",
+      "size": 349680,
+      "date": 133218058546986473
+    },
+    {
+      "path": "scenery/global/scenery/texture/Kessel_3Norm.png.DDS.json",
+      "size": 160,
+      "date": 133218058546986473
+    },
+    {
+      "path": "scenery/global/scenery/texture/Kessel_4.png.DDS",
+      "size": 2872,
+      "date": 133218058547006569
+    },
+    {
+      "path": "scenery/global/scenery/texture/Kessel_4.png.DDS.json",
+      "size": 102,
+      "date": 133218058547006569
+    },
+    {
+      "path": "scenery/global/scenery/texture/Kessel_5.png.DDS",
+      "size": 5608,
+      "date": 133218058547006569
+    },
+    {
+      "path": "scenery/global/scenery/texture/Kessel_5.png.DDS.json",
+      "size": 102,
+      "date": 133218058547006569
+    },
+    {
+      "path": "scenery/global/scenery/texture/KesselVTG.png.DDS",
+      "size": 11400,
+      "date": 133218058547034073
+    },
+    {
+      "path": "scenery/global/scenery/texture/KesselVTG.png.DDS.json",
+      "size": 102,
+      "date": 133218058547034073
+    },
+    {
+      "path": "scenery/global/scenery/texture/KesselVTG_0.png.DDS",
+      "size": 43912,
+      "date": 133218058547038096
+    },
+    {
+      "path": "scenery/global/scenery/texture/KesselVTG_0.png.DDS.json",
+      "size": 102,
+      "date": 133218058547038096
+    },
+    {
+      "path": "scenery/global/scenery/texture/KesselVTG_1.png.DDS",
+      "size": 43912,
+      "date": 133218058547047657
+    },
+    {
+      "path": "scenery/global/scenery/texture/KesselVTG_1.png.DDS.json",
+      "size": 102,
+      "date": 133218058547047657
+    },
+    {
+      "path": "scenery/global/scenery/texture/KesselVTGgr.png.DDS",
+      "size": 11400,
+      "date": 133219084175690136
+    },
+    {
+      "path": "scenery/global/scenery/texture/KesselVTGgr.png.DDS.json",
+      "size": 102,
+      "date": 133219084175690136
+    },
+    {
+      "path": "scenery/global/scenery/texture/KesselVTGgr_0.png.DDS",
+      "size": 43912,
+      "date": 133219084175690136
+    },
+    {
+      "path": "scenery/global/scenery/texture/KesselVTGgr_0.png.DDS.json",
+      "size": 102,
+      "date": 133219084175690136
+    },
+    {
+      "path": "scenery/global/scenery/texture/KesselVTGgr_1.png.DDS",
+      "size": 43912,
+      "date": 133219084175690136
+    },
+    {
+      "path": "scenery/global/scenery/texture/KesselVTGgr_1.png.DDS.json",
+      "size": 102,
+      "date": 133219084175690136
+    },
+    {
+      "path": "scenery/global/scenery/texture/KesselVTGwh.png.DDS",
+      "size": 11400,
+      "date": 133219076140086230
+    },
+    {
+      "path": "scenery/global/scenery/texture/KesselVTGwh.png.DDS.json",
+      "size": 102,
+      "date": 133219076140086230
+    },
+    {
+      "path": "scenery/global/scenery/texture/KesselVTGwh_0.png.DDS",
+      "size": 43912,
+      "date": 133219076140096289
+    },
+    {
+      "path": "scenery/global/scenery/texture/KesselVTGwh_0.png.DDS.json",
+      "size": 102,
+      "date": 133219076140096289
+    },
+    {
+      "path": "scenery/global/scenery/texture/KesselVTGwh_1.png.DDS",
+      "size": 43912,
+      "date": 133219076140096289
+    },
+    {
+      "path": "scenery/global/scenery/texture/KesselVTGwh_1.png.DDS.json",
+      "size": 102,
+      "date": 133219076140096289
     },
     {
       "path": "scenery/global/scenery/texture/Klinikum_HEF_texture_0.png.DDS",
@@ -3541,6 +4036,176 @@
       "date": 132426661471489018
     },
     {
+      "path": "scenery/global/scenery/texture/mccafe_logo.png.DDS",
+      "size": 87560,
+      "date": 133215698798558935
+    },
+    {
+      "path": "scenery/global/scenery/texture/mccafe_logo.png.DDS.json",
+      "size": 102,
+      "date": 133215698798558935
+    },
+    {
+      "path": "scenery/global/scenery/texture/mcdonalds_panel.png.DDS",
+      "size": 174920,
+      "date": 133215698798558935
+    },
+    {
+      "path": "scenery/global/scenery/texture/mcdonalds_panel.png.DDS.json",
+      "size": 102,
+      "date": 133215698798558935
+    },
+    {
+      "path": "scenery/global/scenery/texture/McDonaldsHEF1.png.DDS",
+      "size": 174904,
+      "date": 133215731963809614
+    },
+    {
+      "path": "scenery/global/scenery/texture/McDonaldsHEF1.png.DDS.json",
+      "size": 102,
+      "date": 133215731963809614
+    },
+    {
+      "path": "scenery/global/scenery/texture/McDonaldsHEF10.png.DDS",
+      "size": 349672,
+      "date": 133215731963854395
+    },
+    {
+      "path": "scenery/global/scenery/texture/McDonaldsHEF10.png.DDS.json",
+      "size": 102,
+      "date": 133215731963854395
+    },
+    {
+      "path": "scenery/global/scenery/texture/McDonaldsHEF11.png.DDS",
+      "size": 87528,
+      "date": 133215731963859562
+    },
+    {
+      "path": "scenery/global/scenery/texture/McDonaldsHEF11.png.DDS.json",
+      "size": 102,
+      "date": 133215731963859562
+    },
+    {
+      "path": "scenery/global/scenery/texture/McDonaldsHEF12.png.DDS",
+      "size": 43832,
+      "date": 133215731963799613
+    },
+    {
+      "path": "scenery/global/scenery/texture/McDonaldsHEF12.png.DDS.json",
+      "size": 102,
+      "date": 133215731963799613
+    },
+    {
+      "path": "scenery/global/scenery/texture/McDonaldsHEF12n.png.DDS",
+      "size": 43832,
+      "date": 133215731963789615
+    },
+    {
+      "path": "scenery/global/scenery/texture/McDonaldsHEF12n.png.DDS.json",
+      "size": 102,
+      "date": 133215731963789615
+    },
+    {
+      "path": "scenery/global/scenery/texture/McDonaldsHEF13.png.DDS",
+      "size": 21992,
+      "date": 133215731963789615
+    },
+    {
+      "path": "scenery/global/scenery/texture/McDonaldsHEF13.png.DDS.json",
+      "size": 102,
+      "date": 133215731963789615
+    },
+    {
+      "path": "scenery/global/scenery/texture/McDonaldsHEF14.png.DDS",
+      "size": 184,
+      "date": 133215731963809614
+    },
+    {
+      "path": "scenery/global/scenery/texture/McDonaldsHEF14.png.DDS.json",
+      "size": 102,
+      "date": 133215731963809614
+    },
+    {
+      "path": "scenery/global/scenery/texture/McDonaldsHEF2.png.DDS",
+      "size": 184,
+      "date": 133215731963819635
+    },
+    {
+      "path": "scenery/global/scenery/texture/McDonaldsHEF2.png.DDS.json",
+      "size": 102,
+      "date": 133215731963819635
+    },
+    {
+      "path": "scenery/global/scenery/texture/McDonaldsHEF3.png.DDS",
+      "size": 11064,
+      "date": 133215731963819635
+    },
+    {
+      "path": "scenery/global/scenery/texture/McDonaldsHEF3.png.DDS.json",
+      "size": 102,
+      "date": 133215731963819635
+    },
+    {
+      "path": "scenery/global/scenery/texture/McDonaldsHEF4.png.DDS",
+      "size": 11064,
+      "date": 133215731963819635
+    },
+    {
+      "path": "scenery/global/scenery/texture/McDonaldsHEF4.png.DDS.json",
+      "size": 102,
+      "date": 133215731963819635
+    },
+    {
+      "path": "scenery/global/scenery/texture/McDonaldsHEF6.png.DDS",
+      "size": 174904,
+      "date": 133215731963799613
+    },
+    {
+      "path": "scenery/global/scenery/texture/McDonaldsHEF6.png.DDS.json",
+      "size": 102,
+      "date": 133215731963799613
+    },
+    {
+      "path": "scenery/global/scenery/texture/McDonaldsHEF7.png.DDS",
+      "size": 87528,
+      "date": 133215731963829509
+    },
+    {
+      "path": "scenery/global/scenery/texture/McDonaldsHEF7.png.DDS.json",
+      "size": 102,
+      "date": 133215731963829509
+    },
+    {
+      "path": "scenery/global/scenery/texture/McDonaldsHEF7n.png.DDS",
+      "size": 87528,
+      "date": 133215731963829509
+    },
+    {
+      "path": "scenery/global/scenery/texture/McDonaldsHEF7n.png.DDS.json",
+      "size": 102,
+      "date": 133215731963829509
+    },
+    {
+      "path": "scenery/global/scenery/texture/McDonaldsHEF8.png.DDS",
+      "size": 174904,
+      "date": 133215731963839623
+    },
+    {
+      "path": "scenery/global/scenery/texture/McDonaldsHEF8.png.DDS.json",
+      "size": 102,
+      "date": 133215731963839623
+    },
+    {
+      "path": "scenery/global/scenery/texture/McDonaldsHEF9.png.DDS",
+      "size": 349672,
+      "date": 133215731963849627
+    },
+    {
+      "path": "scenery/global/scenery/texture/McDonaldsHEF9.png.DDS.json",
+      "size": 102,
+      "date": 133215731963849627
+    },
+    {
       "path": "scenery/global/scenery/texture/Merkur_Spielothek_texture_0.png.DDS",
       "size": 11184976,
       "date": 132607434385230725
@@ -3601,194 +4266,24 @@
       "date": 132607434385230725
     },
     {
-      "path": "scenery/global/scenery/texture/MSO_0.png.DDS",
+      "path": "scenery/global/scenery/texture/metalgalvanized0022_7_s.png.DDS",
       "size": 174904,
-      "date": 132610036465721136
+      "date": 133215698798548944
     },
     {
-      "path": "scenery/global/scenery/texture/MSO_0.png.DDS.json",
+      "path": "scenery/global/scenery/texture/metalgalvanized0022_7_s.png.DDS.json",
       "size": 102,
-      "date": 132610036465721136
+      "date": 133215698798548944
     },
     {
-      "path": "scenery/global/scenery/texture/MSO_1.png.DDS",
-      "size": 349672,
-      "date": 132610036465901117
-    },
-    {
-      "path": "scenery/global/scenery/texture/MSO_1.png.DDS.json",
-      "size": 166,
-      "date": 132610036465901117
-    },
-    {
-      "path": "scenery/global/scenery/texture/MSO_10.png.DDS",
-      "size": 1398248,
-      "date": 132610036465361123
-    },
-    {
-      "path": "scenery/global/scenery/texture/MSO_10.png.DDS.json",
-      "size": 102,
-      "date": 132610036465361123
-    },
-    {
-      "path": "scenery/global/scenery/texture/MSO_10_emission.png.DDS",
-      "size": 1398248,
-      "date": 132610036465351241
-    },
-    {
-      "path": "scenery/global/scenery/texture/MSO_10_emission.png.DDS.json",
-      "size": 102,
-      "date": 132610036465351241
-    },
-    {
-      "path": "scenery/global/scenery/texture/MSO_11.png.DDS",
+      "path": "scenery/global/scenery/texture/MetalPanel.png.DDS",
       "size": 699192,
-      "date": 132610036465541144
+      "date": 133230008825400760
     },
     {
-      "path": "scenery/global/scenery/texture/MSO_11.png.DDS.json",
+      "path": "scenery/global/scenery/texture/MetalPanel.png.DDS.json",
       "size": 102,
-      "date": 132610036465541144
-    },
-    {
-      "path": "scenery/global/scenery/texture/MSO_11_emission.png.DDS",
-      "size": 699192,
-      "date": 132610036465461138
-    },
-    {
-      "path": "scenery/global/scenery/texture/MSO_11_emission.png.DDS.json",
-      "size": 102,
-      "date": 132610036465461138
-    },
-    {
-      "path": "scenery/global/scenery/texture/MSO_12.png.DDS",
-      "size": 11184976,
-      "date": 132610036465611149
-    },
-    {
-      "path": "scenery/global/scenery/texture/MSO_12.png.DDS.json",
-      "size": 119,
-      "date": 132610036465611149
-    },
-    {
-      "path": "scenery/global/scenery/texture/MSO_13.png.DDS",
-      "size": 174904,
-      "date": 132610036465641141
-    },
-    {
-      "path": "scenery/global/scenery/texture/MSO_13.png.DDS.json",
-      "size": 102,
-      "date": 132610036465641141
-    },
-    {
-      "path": "scenery/global/scenery/texture/MSO_14.png.DDS",
-      "size": 699192,
-      "date": 132610036465661152
-    },
-    {
-      "path": "scenery/global/scenery/texture/MSO_14.png.DDS.json",
-      "size": 102,
-      "date": 132610036465661152
-    },
-    {
-      "path": "scenery/global/scenery/texture/MSO_2.png.DDS",
-      "size": 349672,
-      "date": 132610036465911128
-    },
-    {
-      "path": "scenery/global/scenery/texture/MSO_2.png.DDS.json",
-      "size": 102,
-      "date": 132610036465911128
-    },
-    {
-      "path": "scenery/global/scenery/texture/MSO_3.png.DDS",
-      "size": 2796368,
-      "date": 132610036465791145
-    },
-    {
-      "path": "scenery/global/scenery/texture/MSO_3.png.DDS.json",
-      "size": 119,
-      "date": 132610036465791145
-    },
-    {
-      "path": "scenery/global/scenery/texture/MSO_4.png.DDS",
-      "size": 699208,
-      "date": 132610036465801139
-    },
-    {
-      "path": "scenery/global/scenery/texture/MSO_4.png.DDS.json",
-      "size": 102,
-      "date": 132610036465801139
-    },
-    {
-      "path": "scenery/global/scenery/texture/MSO_5.png.DDS",
-      "size": 349704,
-      "date": 132610036465811155
-    },
-    {
-      "path": "scenery/global/scenery/texture/MSO_5.png.DDS.json",
-      "size": 102,
-      "date": 132610036465811155
-    },
-    {
-      "path": "scenery/global/scenery/texture/MSO_6.png.DDS",
-      "size": 699208,
-      "date": 132610036465881276
-    },
-    {
-      "path": "scenery/global/scenery/texture/MSO_6.png.DDS.json",
-      "size": 102,
-      "date": 132610036465881276
-    },
-    {
-      "path": "scenery/global/scenery/texture/MSO_7.png.DDS",
-      "size": 349704,
-      "date": 132610036465891119
-    },
-    {
-      "path": "scenery/global/scenery/texture/MSO_7.png.DDS.json",
-      "size": 102,
-      "date": 132610036465891119
-    },
-    {
-      "path": "scenery/global/scenery/texture/MSO_8.png.DDS",
-      "size": 699192,
-      "date": 132610036465281834
-    },
-    {
-      "path": "scenery/global/scenery/texture/MSO_8.png.DDS.json",
-      "size": 102,
-      "date": 132610036465281834
-    },
-    {
-      "path": "scenery/global/scenery/texture/MSO_8_emission.png.DDS",
-      "size": 699192,
-      "date": 132610036465271837
-    },
-    {
-      "path": "scenery/global/scenery/texture/MSO_8_emission.png.DDS.json",
-      "size": 102,
-      "date": 132610036465271837
-    },
-    {
-      "path": "scenery/global/scenery/texture/MSO_9.png.DDS",
-      "size": 1398248,
-      "date": 132610036465341239
-    },
-    {
-      "path": "scenery/global/scenery/texture/MSO_9.png.DDS.json",
-      "size": 102,
-      "date": 132610036465341239
-    },
-    {
-      "path": "scenery/global/scenery/texture/MSO_9_emission.png.DDS",
-      "size": 1398248,
-      "date": 132610036465291831
-    },
-    {
-      "path": "scenery/global/scenery/texture/MSO_9_emission.png.DDS.json",
-      "size": 102,
-      "date": 132610036465291831
+      "date": 133230008825400760
     },
     {
       "path": "scenery/global/scenery/texture/MSO_Campus_0.png.DDS",
@@ -3829,6 +4324,186 @@
       "path": "scenery/global/scenery/texture/MSO_Campus_2.png.DDS.json",
       "size": 102,
       "date": 132610038454313464
+    },
+    {
+      "path": "scenery/global/scenery/texture/MSO_texture_10.png.DDS",
+      "size": 1398248,
+      "date": 133217516574003869
+    },
+    {
+      "path": "scenery/global/scenery/texture/MSO_texture_10.png.DDS.json",
+      "size": 102,
+      "date": 133217516574003869
+    },
+    {
+      "path": "scenery/global/scenery/texture/MSO_texture_10e.png.DDS",
+      "size": 1398248,
+      "date": 133217516573983847
+    },
+    {
+      "path": "scenery/global/scenery/texture/MSO_texture_10e.png.DDS.json",
+      "size": 102,
+      "date": 133217516573983847
+    },
+    {
+      "path": "scenery/global/scenery/texture/MSO_texture_11.png.DDS",
+      "size": 1398248,
+      "date": 133217516574023842
+    },
+    {
+      "path": "scenery/global/scenery/texture/MSO_texture_11.png.DDS.json",
+      "size": 102,
+      "date": 133217516574023842
+    },
+    {
+      "path": "scenery/global/scenery/texture/MSO_texture_11e.png.DDS",
+      "size": 1398248,
+      "date": 133217516574013874
+    },
+    {
+      "path": "scenery/global/scenery/texture/MSO_texture_11e.png.DDS.json",
+      "size": 102,
+      "date": 133217516574013874
+    },
+    {
+      "path": "scenery/global/scenery/texture/MSO_texture_12.png.DDS",
+      "size": 699192,
+      "date": 133217516573883818
+    },
+    {
+      "path": "scenery/global/scenery/texture/MSO_texture_12.png.DDS.json",
+      "size": 102,
+      "date": 133217516573883818
+    },
+    {
+      "path": "scenery/global/scenery/texture/MSO_texture_12e.png.DDS",
+      "size": 699192,
+      "date": 133217516573873823
+    },
+    {
+      "path": "scenery/global/scenery/texture/MSO_texture_12e.png.DDS.json",
+      "size": 102,
+      "date": 133217516573873823
+    },
+    {
+      "path": "scenery/global/scenery/texture/MSO_texture_13.png.DDS",
+      "size": 5592552,
+      "date": 133217516573903841
+    },
+    {
+      "path": "scenery/global/scenery/texture/MSO_texture_13.png.DDS.json",
+      "size": 102,
+      "date": 133217516573903841
+    },
+    {
+      "path": "scenery/global/scenery/texture/MSO_texture_14.png.DDS",
+      "size": 174904,
+      "date": 133217516573803863
+    },
+    {
+      "path": "scenery/global/scenery/texture/MSO_texture_14.png.DDS.json",
+      "size": 102,
+      "date": 133217516573803863
+    },
+    {
+      "path": "scenery/global/scenery/texture/MSO_texture_16.png.DDS",
+      "size": 699192,
+      "date": 133217516573893829
+    },
+    {
+      "path": "scenery/global/scenery/texture/MSO_texture_16.png.DDS.json",
+      "size": 102,
+      "date": 133217516573893829
+    },
+    {
+      "path": "scenery/global/scenery/texture/MSO_texture_2.png.DDS",
+      "size": 349672,
+      "date": 133217516573923835
+    },
+    {
+      "path": "scenery/global/scenery/texture/MSO_texture_2.png.DDS.json",
+      "size": 102,
+      "date": 133217516573923835
+    },
+    {
+      "path": "scenery/global/scenery/texture/MSO_texture_3.png.DDS",
+      "size": 349672,
+      "date": 133217516573933846
+    },
+    {
+      "path": "scenery/global/scenery/texture/MSO_texture_3.png.DDS.json",
+      "size": 102,
+      "date": 133217516573933846
+    },
+    {
+      "path": "scenery/global/scenery/texture/MSO_texture_4.png.DDS",
+      "size": 1398248,
+      "date": 133217516573863827
+    },
+    {
+      "path": "scenery/global/scenery/texture/MSO_texture_4.png.DDS.json",
+      "size": 102,
+      "date": 133217516573863827
+    },
+    {
+      "path": "scenery/global/scenery/texture/MSO_texture_5.png.DDS",
+      "size": 699208,
+      "date": 133217516573833851
+    },
+    {
+      "path": "scenery/global/scenery/texture/MSO_texture_5.png.DDS.json",
+      "size": 102,
+      "date": 133217516573833851
+    },
+    {
+      "path": "scenery/global/scenery/texture/MSO_texture_5e.png.DDS",
+      "size": 699208,
+      "date": 133217516573813840
+    },
+    {
+      "path": "scenery/global/scenery/texture/MSO_texture_5e.png.DDS.json",
+      "size": 102,
+      "date": 133217516573813840
+    },
+    {
+      "path": "scenery/global/scenery/texture/MSO_texture_6.png.DDS",
+      "size": 349704,
+      "date": 133217516573943839
+    },
+    {
+      "path": "scenery/global/scenery/texture/MSO_texture_6.png.DDS.json",
+      "size": 102,
+      "date": 133217516573943839
+    },
+    {
+      "path": "scenery/global/scenery/texture/MSO_texture_7.png.DDS",
+      "size": 699208,
+      "date": 133217516573973835
+    },
+    {
+      "path": "scenery/global/scenery/texture/MSO_texture_7.png.DDS.json",
+      "size": 102,
+      "date": 133217516573973835
+    },
+    {
+      "path": "scenery/global/scenery/texture/MSO_texture_9.png.DDS",
+      "size": 699192,
+      "date": 133217516573953837
+    },
+    {
+      "path": "scenery/global/scenery/texture/MSO_texture_9.png.DDS.json",
+      "size": 102,
+      "date": 133217516573953837
+    },
+    {
+      "path": "scenery/global/scenery/texture/MSO_texture_9e.png.DDS",
+      "size": 699192,
+      "date": 133217516573943839
+    },
+    {
+      "path": "scenery/global/scenery/texture/MSO_texture_9e.png.DDS.json",
+      "size": 102,
+      "date": 133217516573943839
     },
     {
       "path": "scenery/global/scenery/texture/Norma_Reilos_texture_0.png.DDS",
@@ -4109,6 +4784,36 @@
       "path": "scenery/global/scenery/texture/Robert_Heil_Turm_texture_9.png.DDS.json",
       "size": 119,
       "date": 132426680191850982
+    },
+    {
+      "path": "scenery/global/scenery/texture/Rolltor.png.DDS",
+      "size": 699192,
+      "date": 133232920235181644
+    },
+    {
+      "path": "scenery/global/scenery/texture/Rolltor.png.DDS.json",
+      "size": 102,
+      "date": 133232920235181644
+    },
+    {
+      "path": "scenery/global/scenery/texture/Rosis_Logo.png.DDS",
+      "size": 87528,
+      "date": 133227763707044327
+    },
+    {
+      "path": "scenery/global/scenery/texture/Rosis_Logo.png.DDS.json",
+      "size": 102,
+      "date": 133227763707044327
+    },
+    {
+      "path": "scenery/global/scenery/texture/Rosis_Logo_emis.png.DDS",
+      "size": 87528,
+      "date": 133227763707034323
+    },
+    {
+      "path": "scenery/global/scenery/texture/Rosis_Logo_emis.png.DDS.json",
+      "size": 102,
+      "date": 133227763707034323
     },
     {
       "path": "scenery/global/scenery/texture/RS_Components_texture_0.png.DDS",
@@ -4761,6 +5466,26 @@
       "date": 132613109346346616
     },
     {
+      "path": "scenery/global/scenery/texture/ShopWind.png.DDS",
+      "size": 349712,
+      "date": 133227763706974240
+    },
+    {
+      "path": "scenery/global/scenery/texture/ShopWind.png.DDS.json",
+      "size": 119,
+      "date": 133227763706974240
+    },
+    {
+      "path": "scenery/global/scenery/texture/ShopWindEmi.png.DDS",
+      "size": 174920,
+      "date": 133227763706964258
+    },
+    {
+      "path": "scenery/global/scenery/texture/ShopWindEmi.png.DDS.json",
+      "size": 102,
+      "date": 133227763706964258
+    },
+    {
       "path": "scenery/global/scenery/texture/St_Lullus_Kirche_texture_0.png.DDS",
       "size": 5592552,
       "date": 132426714709768200
@@ -5191,144 +5916,174 @@
       "date": 132927924219584659
     },
     {
-      "path": "scenery/global/scenery/texture/Toom_Bebra_texture_0.png.DDS",
+      "path": "scenery/global/scenery/texture/Toom_texture_0.png.DDS",
       "size": 349672,
-      "date": 132613183380164575
+      "date": 133217499758843189
     },
     {
-      "path": "scenery/global/scenery/texture/Toom_Bebra_texture_0.png.DDS.json",
+      "path": "scenery/global/scenery/texture/Toom_texture_0.png.DDS.json",
       "size": 102,
-      "date": 132613183380164575
+      "date": 133217499758843189
     },
     {
-      "path": "scenery/global/scenery/texture/Toom_Bebra_texture_10.png.DDS",
+      "path": "scenery/global/scenery/texture/Toom_texture_1.png.DDS",
       "size": 174904,
-      "date": 132613183379889942
+      "date": 133217499758853199
     },
     {
-      "path": "scenery/global/scenery/texture/Toom_Bebra_texture_10.png.DDS.json",
+      "path": "scenery/global/scenery/texture/Toom_texture_1.png.DDS.json",
       "size": 102,
-      "date": 132613183379889942
+      "date": 133217499758853199
     },
     {
-      "path": "scenery/global/scenery/texture/Toom_Bebra_texture_11.png.DDS",
-      "size": 699192,
-      "date": 132613183379959849
-    },
-    {
-      "path": "scenery/global/scenery/texture/Toom_Bebra_texture_11.png.DDS.json",
-      "size": 102,
-      "date": 132613183379959849
-    },
-    {
-      "path": "scenery/global/scenery/texture/Toom_Bebra_texture_12.png.DDS",
-      "size": 152,
-      "date": 132613183380174587
-    },
-    {
-      "path": "scenery/global/scenery/texture/Toom_Bebra_texture_12.png.DDS.json",
-      "size": 102,
-      "date": 132613183380174587
-    },
-    {
-      "path": "scenery/global/scenery/texture/Toom_Bebra_texture_2.png.DDS",
-      "size": 174904,
-      "date": 132613183380174587
-    },
-    {
-      "path": "scenery/global/scenery/texture/Toom_Bebra_texture_2.png.DDS.json",
-      "size": 102,
-      "date": 132613183380174587
-    },
-    {
-      "path": "scenery/global/scenery/texture/Toom_Bebra_texture_3.png.DDS",
+      "path": "scenery/global/scenery/texture/Toom_texture_10.png.DDS",
       "size": 43832,
-      "date": 132613183379969860
+      "date": 133217499758813194
     },
     {
-      "path": "scenery/global/scenery/texture/Toom_Bebra_texture_3.png.DDS.json",
+      "path": "scenery/global/scenery/texture/Toom_texture_10.png.DDS.json",
       "size": 102,
-      "date": 132613183379969860
+      "date": 133217499758813194
     },
     {
-      "path": "scenery/global/scenery/texture/Toom_Bebra_texture_4.png.DDS",
+      "path": "scenery/global/scenery/texture/Toom_texture_11.png.DDS",
       "size": 349680,
-      "date": 132613183380037610
+      "date": 133217499758833165
     },
     {
-      "path": "scenery/global/scenery/texture/Toom_Bebra_texture_4.png.DDS.json",
+      "path": "scenery/global/scenery/texture/Toom_texture_11.png.DDS.json",
       "size": 119,
-      "date": 132613183380037610
+      "date": 133217499758833165
     },
     {
-      "path": "scenery/global/scenery/texture/Toom_Bebra_texture_5.png.DDS",
-      "size": 1398288,
-      "date": 132613183380057448
-    },
-    {
-      "path": "scenery/global/scenery/texture/Toom_Bebra_texture_5.png.DDS.json",
-      "size": 119,
-      "date": 132613183380057448
-    },
-    {
-      "path": "scenery/global/scenery/texture/Toom_Bebra_texture_5_emission.png.DDS",
+      "path": "scenery/global/scenery/texture/Toom_texture_2.png.DDS",
       "size": 699208,
-      "date": 132613183380047451
+      "date": 133217499758833165
     },
     {
-      "path": "scenery/global/scenery/texture/Toom_Bebra_texture_5_emission.png.DDS.json",
+      "path": "scenery/global/scenery/texture/Toom_texture_2.png.DDS.json",
       "size": 102,
-      "date": 132613183380047451
+      "date": 133217499758833165
     },
     {
-      "path": "scenery/global/scenery/texture/Toom_Bebra_texture_6.png.DDS",
+      "path": "scenery/global/scenery/texture/Toom_texture_3.png.DDS",
       "size": 312,
-      "date": 132613183380067455
+      "date": 133217499758823169
     },
     {
-      "path": "scenery/global/scenery/texture/Toom_Bebra_texture_6.png.DDS.json",
+      "path": "scenery/global/scenery/texture/Toom_texture_3.png.DDS.json",
       "size": 102,
-      "date": 132613183380067455
+      "date": 133217499758823169
     },
     {
-      "path": "scenery/global/scenery/texture/Toom_Bebra_texture_7.png.DDS",
+      "path": "scenery/global/scenery/texture/Toom_texture_4.png.DDS",
       "size": 312,
-      "date": 132613183380184583
+      "date": 133217499758863214
     },
     {
-      "path": "scenery/global/scenery/texture/Toom_Bebra_texture_7.png.DDS.json",
+      "path": "scenery/global/scenery/texture/Toom_texture_4.png.DDS.json",
       "size": 102,
-      "date": 132613183380184583
+      "date": 133217499758863214
     },
     {
-      "path": "scenery/global/scenery/texture/Toom_Bebra_texture_8.png.DDS",
-      "size": 312,
-      "date": 132613183379838661
-    },
-    {
-      "path": "scenery/global/scenery/texture/Toom_Bebra_texture_8.png.DDS.json",
-      "size": 102,
-      "date": 132613183379838661
-    },
-    {
-      "path": "scenery/global/scenery/texture/Toom_Bebra_texture_9.png.DDS",
+      "path": "scenery/global/scenery/texture/Toom_texture_6.png.DDS",
       "size": 43832,
-      "date": 132613183379878654
+      "date": 133217499758873167
     },
     {
-      "path": "scenery/global/scenery/texture/Toom_Bebra_texture_9.png.DDS.json",
+      "path": "scenery/global/scenery/texture/Toom_texture_6.png.DDS.json",
       "size": 102,
-      "date": 132613183379878654
+      "date": 133217499758873167
     },
     {
-      "path": "scenery/global/scenery/texture/Toom_Bebra_texture_9_emission.png.DDS",
+      "path": "scenery/global/scenery/texture/Toom_texture_6e.png.DDS",
       "size": 43832,
-      "date": 132613183379848498
+      "date": 133217499758863214
     },
     {
-      "path": "scenery/global/scenery/texture/Toom_Bebra_texture_9_emission.png.DDS.json",
+      "path": "scenery/global/scenery/texture/Toom_texture_6e.png.DDS.json",
       "size": 102,
-      "date": 132613183379848498
+      "date": 133217499758863214
+    },
+    {
+      "path": "scenery/global/scenery/texture/Toom_texture_7.png.DDS",
+      "size": 174904,
+      "date": 133217499758873167
+    },
+    {
+      "path": "scenery/global/scenery/texture/Toom_texture_7.png.DDS.json",
+      "size": 102,
+      "date": 133217499758873167
+    },
+    {
+      "path": "scenery/global/scenery/texture/Toom_texture_8.png.DDS",
+      "size": 699192,
+      "date": 133217499758883162
+    },
+    {
+      "path": "scenery/global/scenery/texture/Toom_texture_8.png.DDS.json",
+      "size": 102,
+      "date": 133217499758883162
+    },
+    {
+      "path": "scenery/global/scenery/texture/Toom_texture_9.png.DDS",
+      "size": 152,
+      "date": 133217499758893227
+    },
+    {
+      "path": "scenery/global/scenery/texture/Toom_texture_9.png.DDS.json",
+      "size": 102,
+      "date": 133217499758893227
+    },
+    {
+      "path": "scenery/global/scenery/texture/Ventilator.png.DDS",
+      "size": 349672,
+      "date": 133227763707074353
+    },
+    {
+      "path": "scenery/global/scenery/texture/Ventilator.png.DDS.json",
+      "size": 102,
+      "date": 133227763707074353
+    },
+    {
+      "path": "scenery/global/scenery/texture/Verkleidung.png.DDS",
+      "size": 699192,
+      "date": 133227763707107704
+    },
+    {
+      "path": "scenery/global/scenery/texture/Verkleidung.png.DDS.json",
+      "size": 102,
+      "date": 133227763707107704
+    },
+    {
+      "path": "scenery/global/scenery/texture/VerzinktAlb.png.DDS",
+      "size": 699192,
+      "date": 133230008825441122
+    },
+    {
+      "path": "scenery/global/scenery/texture/VerzinktAlb.png.DDS.json",
+      "size": 102,
+      "date": 133230008825441122
+    },
+    {
+      "path": "scenery/global/scenery/texture/VerzinktMask.png.DDS",
+      "size": 699192,
+      "date": 133230008825430830
+    },
+    {
+      "path": "scenery/global/scenery/texture/VerzinktMask.png.DDS.json",
+      "size": 166,
+      "date": 133230008825430830
+    },
+    {
+      "path": "scenery/global/scenery/texture/VerzinktNorm.png.DDS",
+      "size": 1398256,
+      "date": 133230008825410759
+    },
+    {
+      "path": "scenery/global/scenery/texture/VerzinktNorm.png.DDS.json",
+      "size": 160,
+      "date": 133230008825410759
     },
     {
       "path": "scenery/global/scenery/texture/Via_HEF_texture_0.png.DDS",
@@ -5351,9 +6106,249 @@
       "date": 132426745623373052
     },
     {
+      "path": "scenery/global/scenery/texture/WandMoss.png.DDS",
+      "size": 699208,
+      "date": 133232920235151625
+    },
+    {
+      "path": "scenery/global/scenery/texture/WandMoss.png.DDS.json",
+      "size": 102,
+      "date": 133232920235151625
+    },
+    {
       "path": "scenery/world/scenery/EDEN.bgl",
-      "size": 282690,
-      "date": 133132745678778938
+      "size": 289541,
+      "date": 133255243983718268
+    },
+    {
+      "path": "SimObjects/GroundVehicles/Maehdraescher/model/Maehdraescher.bin",
+      "size": 349842,
+      "date": 133255243998203689
+    },
+    {
+      "path": "SimObjects/GroundVehicles/Maehdraescher/model/Maehdraescher.gltf",
+      "size": 49446,
+      "date": 133255243998223677
+    },
+    {
+      "path": "SimObjects/GroundVehicles/Maehdraescher/model/Maehdraescher.xml",
+      "size": 1384,
+      "date": 133254440512613661
+    },
+    {
+      "path": "SimObjects/GroundVehicles/Maehdraescher/model/model.CFG",
+      "size": 34,
+      "date": 133249383617630510
+    },
+    {
+      "path": "SimObjects/GroundVehicles/Maehdraescher/sim.cfg",
+      "size": 668,
+      "date": 133250147924625090
+    },
+    {
+      "path": "SimObjects/GroundVehicles/Maehdraescher/texture/AirConditioning.png.DDS",
+      "size": 699192,
+      "date": 133249377646922997
+    },
+    {
+      "path": "SimObjects/GroundVehicles/Maehdraescher/texture/AirConditioning.png.DDS.json",
+      "size": 102,
+      "date": 133249377646922997
+    },
+    {
+      "path": "SimObjects/GroundVehicles/Maehdraescher/texture/MaehGlasalbedo.png.DDS",
+      "size": 174904,
+      "date": 133249377646903004
+    },
+    {
+      "path": "SimObjects/GroundVehicles/Maehdraescher/texture/MaehGlasalbedo.png.DDS.json",
+      "size": 102,
+      "date": 133249377646903004
+    },
+    {
+      "path": "SimObjects/GroundVehicles/Maehdraescher/texture/MaehGlasnormal.png.DDS",
+      "size": 349680,
+      "date": 133249377646892987
+    },
+    {
+      "path": "SimObjects/GroundVehicles/Maehdraescher/texture/MaehGlasnormal.png.DDS.json",
+      "size": 160,
+      "date": 133249377646892987
+    },
+    {
+      "path": "SimObjects/GroundVehicles/Maehdraescher/texture/MaehGlasroughness.png.DDS",
+      "size": 174904,
+      "date": 133249377646903004
+    },
+    {
+      "path": "SimObjects/GroundVehicles/Maehdraescher/texture/MaehGlasroughness.png.DDS.json",
+      "size": 166,
+      "date": 133249377646903004
+    },
+    {
+      "path": "SimObjects/GroundVehicles/Maehdraescher/texture/MaehGrau.png.DDS",
+      "size": 174904,
+      "date": 133249377646912997
+    },
+    {
+      "path": "SimObjects/GroundVehicles/Maehdraescher/texture/MaehGrau.png.DDS.json",
+      "size": 102,
+      "date": 133249377646912997
+    },
+    {
+      "path": "SimObjects/GroundVehicles/Maehdraescher/texture/MaehGruen.png.DDS",
+      "size": 174904,
+      "date": 133249377646882997
+    },
+    {
+      "path": "SimObjects/GroundVehicles/Maehdraescher/texture/MaehGruen.png.DDS.json",
+      "size": 102,
+      "date": 133249377646882997
+    },
+    {
+      "path": "SimObjects/GroundVehicles/Maehdraescher/texture/MaehKorn.png.DDS",
+      "size": 699192,
+      "date": 133249377646932996
+    },
+    {
+      "path": "SimObjects/GroundVehicles/Maehdraescher/texture/MaehKorn.png.DDS.json",
+      "size": 102,
+      "date": 133249377646932996
+    },
+    {
+      "path": "SimObjects/GroundVehicles/Maehdraescher/texture/MaehRad.png.DDS",
+      "size": 1398256,
+      "date": 133249377646952997
+    },
+    {
+      "path": "SimObjects/GroundVehicles/Maehdraescher/texture/MaehRad.png.DDS.json",
+      "size": 119,
+      "date": 133249377646952997
+    },
+    {
+      "path": "SimObjects/GroundVehicles/Maehdraescher/texture/MaehRadInnen.png.DDS",
+      "size": 87528,
+      "date": 133249377646942986
+    },
+    {
+      "path": "SimObjects/GroundVehicles/Maehdraescher/texture/MaehRadInnen.png.DDS.json",
+      "size": 102,
+      "date": 133249377646942986
+    },
+    {
+      "path": "SimObjects/GroundVehicles/Maehdraescher/texture/MaehRot.png.DDS",
+      "size": 174904,
+      "date": 133249377646912997
+    },
+    {
+      "path": "SimObjects/GroundVehicles/Maehdraescher/texture/MaehRot.png.DDS.json",
+      "size": 102,
+      "date": 133249377646912997
+    },
+    {
+      "path": "SimObjects/GroundVehicles/Maehdraescher/texture/MaehWeiss.png.DDS",
+      "size": 174904,
+      "date": 133249377646882997
+    },
+    {
+      "path": "SimObjects/GroundVehicles/Maehdraescher/texture/MaehWeiss.png.DDS.json",
+      "size": 102,
+      "date": 133249377646882997
+    },
+    {
+      "path": "SimObjects/Landmarks/Schneemann/model/model.CFG",
+      "size": 31,
+      "date": 133232084581623860
+    },
+    {
+      "path": "SimObjects/Landmarks/Schneemann/model/Schneemann.bin",
+      "size": 1018116,
+      "date": 133255244011787732
+    },
+    {
+      "path": "SimObjects/Landmarks/Schneemann/model/Schneemann.gltf",
+      "size": 31686,
+      "date": 133255244011797727
+    },
+    {
+      "path": "SimObjects/Landmarks/Schneemann/model/Schneemann.xml",
+      "size": 3464,
+      "date": 133232118940596890
+    },
+    {
+      "path": "SimObjects/Landmarks/Schneemann/sim.cfg",
+      "size": 111,
+      "date": 133232084329167138
+    },
+    {
+      "path": "SimObjects/Landmarks/Schneemann/texture/Holz_albedo.png.DDS",
+      "size": 174904,
+      "date": 133232096022566446
+    },
+    {
+      "path": "SimObjects/Landmarks/Schneemann/texture/Holz_albedo.png.DDS.json",
+      "size": 102,
+      "date": 133232096022566446
+    },
+    {
+      "path": "SimObjects/Landmarks/Schneemann/texture/Holz_normal.png.DDS",
+      "size": 349680,
+      "date": 133232096022546421
+    },
+    {
+      "path": "SimObjects/Landmarks/Schneemann/texture/Holz_normal.png.DDS.json",
+      "size": 160,
+      "date": 133232096022546421
+    },
+    {
+      "path": "SimObjects/Landmarks/Schneemann/texture/Karotte.png.DDS",
+      "size": 174920,
+      "date": 133232096022636432
+    },
+    {
+      "path": "SimObjects/Landmarks/Schneemann/texture/Karotte.png.DDS.json",
+      "size": 102,
+      "date": 133232096022636432
+    },
+    {
+      "path": "SimObjects/Landmarks/Schneemann/texture/Schnee_Albedo.png.DDS",
+      "size": 699192,
+      "date": 133232096022536456
+    },
+    {
+      "path": "SimObjects/Landmarks/Schneemann/texture/Schnee_Albedo.png.DDS.json",
+      "size": 102,
+      "date": 133232096022536456
+    },
+    {
+      "path": "SimObjects/Landmarks/Schneemann/texture/Schnee_Normal.png.DDS",
+      "size": 1398256,
+      "date": 133232096022516445
+    },
+    {
+      "path": "SimObjects/Landmarks/Schneemann/texture/Schnee_Normal.png.DDS.json",
+      "size": 160,
+      "date": 133232096022516445
+    },
+    {
+      "path": "SimObjects/Landmarks/Schneemann/texture/Stoff_albedo.png.DDS",
+      "size": 699192,
+      "date": 133232096022616435
+    },
+    {
+      "path": "SimObjects/Landmarks/Schneemann/texture/Stoff_albedo.png.DDS.json",
+      "size": 102,
+      "date": 133232096022616435
+    },
+    {
+      "path": "SimObjects/Landmarks/Schneemann/texture/Stoff_normal.png.DDS",
+      "size": 1398256,
+      "date": 133232096022606433
+    },
+    {
+      "path": "SimObjects/Landmarks/Schneemann/texture/Stoff_normal.png.DDS.json",
+      "size": 160,
+      "date": 133232096022606433
     }
   ]
 }

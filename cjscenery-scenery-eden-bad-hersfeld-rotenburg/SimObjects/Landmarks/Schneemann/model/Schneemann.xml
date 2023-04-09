@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModelInfo guid="{48e928a1-bc20-4672-8265-b26f278fd55f}" version="1.1">
+	<LODS>
+		<LOD minSize="0" ModelFile="Schneemann.gltf"/>
+	</LODS>
+</ModelInfo>
+
+<ModelBehaviors>
+<Include Path="Asobo\Misc\SimObjects.xml"/>
+
+<Component ID="ArmL" Node="ArmL">
+<Visibility>
+<Parameter>
+<Code>(A:AMBIENT PRECIP STATE, mask) 8 == if{ 1 } els{ 0 }</Code>
+</Parameter>
+</Visibility>
+</Component>
+
+<Component ID="ArmR" Node="ArmR">
+<Visibility>
+<Parameter>
+<Code>(A:AMBIENT PRECIP STATE, mask) 8 == if{ 1 } els{ 0 }</Code>
+</Parameter>
+</Visibility>
+</Component>
+
+<Component ID="AugeL" Node="AugeL">
+<Visibility>
+<Parameter>
+<Code>(A:AMBIENT PRECIP STATE, mask) 8 == if{ 1 } els{ 0 }</Code>
+</Parameter>
+</Visibility>
+</Component>
+
+<Component ID="AugeR" Node="AugeR">
+<Visibility>
+<Parameter>
+<Code>(A:AMBIENT PRECIP STATE, mask) 8 == if{ 1 } els{ 0 }</Code>
+</Parameter>
+</Visibility>
+</Component>
+
+<Component ID="Hut" Node="Hut">
+<Visibility>
+<Parameter>
+<Code>(A:AMBIENT PRECIP STATE, mask) 8 == if{ 1 } els{ 0 }</Code>
+</Parameter>
+</Visibility>
+</Component>
+
+<Component ID="Karotte" Node="Karotte">
+<Visibility>
+<Parameter>
+<Code>(A:AMBIENT PRECIP STATE, mask) 8 == if{ 1 } els{ 0 }</Code>
+</Parameter>
+</Visibility>
+</Component>
+
+<Component ID="Knopf1" Node="Knopf1">
+<Visibility>
+<Parameter>
+<Code>(A:AMBIENT PRECIP STATE, mask) 8 == if{ 1 } els{ 0 }</Code>
+</Parameter>
+</Visibility>
+</Component>
+
+<Component ID="Knopf3" Node="Knopf3">
+<Visibility>
+<Parameter>
+<Code>(A:AMBIENT PRECIP STATE, mask) 8 == if{ 1 } els{ 0 }</Code>
+</Parameter>
+</Visibility>
+</Component>
+
+<Component ID="Koerper" Node="Koerper">
+<Visibility>
+<Parameter>
+<Code>(A:AMBIENT PRECIP STATE, mask) 8 == if{ 1 } els{ 0 }</Code>
+</Parameter>
+</Visibility>
+</Component>
+
+<Component ID="Kopf2" Node="Kopf2">
+<Visibility>
+<Parameter>
+<Code>(A:AMBIENT PRECIP STATE, mask) 8 == if{ 1 } els{ 0 }</Code>
+</Parameter>
+</Visibility>
+</Component>
+
+<Component ID="Mund" Node="Mund">
+<Visibility>
+<Parameter>
+<Code>(A:AMBIENT PRECIP STATE, mask) 8 == if{ 1 } els{ 0 }</Code>
+</Parameter>
+</Visibility>
+</Component>
+
+<Component ID="Mund2" Node="Mund2">
+<Visibility>
+<Parameter>
+<Code>(A:AMBIENT PRECIP STATE, mask) 8 == if{ 1 } els{ 0 }</Code>
+</Parameter>
+</Visibility>
+</Component>
+
+<Component ID="Mund3" Node="Mund3">
+<Visibility>
+<Parameter>
+<Code>(A:AMBIENT PRECIP STATE, mask) 8 == if{ 1 } els{ 0 }</Code>
+</Parameter>
+</Visibility>
+</Component>
+
+<Component ID="Mund4" Node="Mund4">
+<Visibility>
+<Parameter>
+<Code>(A:AMBIENT PRECIP STATE, mask) 8 == if{ 1 } els{ 0 }</Code>
+</Parameter>
+</Visibility>
+</Component>
+
+<Component ID="Mund5" Node="Mund5">
+<Visibility>
+<Parameter>
+<Code>(A:AMBIENT PRECIP STATE, mask) 8 == if{ 1 } els{ 0 }</Code>
+</Parameter>
+</Visibility>
+</Component>
+
+<Component ID="Mund6" Node="Mund6">
+<Visibility>
+<Parameter>
+<Code>(A:AMBIENT PRECIP STATE, mask) 8 == if{ 1 } els{ 0 }</Code>
+</Parameter>
+</Visibility>
+</Component>
+
+<Component ID="Mund7" Node="Mund7">
+<Visibility>
+<Parameter>
+<Code>(A:AMBIENT PRECIP STATE, mask) 8 == if{ 1 } els{ 0 }</Code>
+</Parameter>
+</Visibility>
+</Component>
+
+<Component ID="Mund8" Node="Mund8">
+<Visibility>
+<Parameter>
+<Code>(A:AMBIENT PRECIP STATE, mask) 8 == if{ 1 } els{ 0 }</Code>
+</Parameter>
+</Visibility>
+</Component>
+
+<Component ID="Mund9" Node="Mund9">
+<Visibility>
+<Parameter>
+<Code>(A:AMBIENT PRECIP STATE, mask) 8 == if{ 1 } els{ 0 }</Code>
+</Parameter>
+</Visibility>
+</Component>
+
+</ModelBehaviors>
