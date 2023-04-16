@@ -30,6 +30,11 @@
       "type": "Airport",
       "content": "EDKJ",
       "revision": 1
+    },
+    {
+      "type": "Airport",
+      "content": "ZZZZ",
+      "revision": 1
     }
   ]
 }

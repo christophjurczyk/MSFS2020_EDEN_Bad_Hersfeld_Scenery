@@ -4,12 +4,12 @@
   "title": "EDEN - Bad Hersfeld",
   "manufacturer": "",
   "creator": "CJ-Scenery",
-  "package_version": "1.3.0",
+  "package_version": "1.3.1",
   "minimum_game_version": "1.31.22",
   "release_notes": {
     "neutral": {
-      "LastUpdate": "",
-      "OlderHistory": "VERSION 1.0.0 RELEASED AUGUST 25, 2020\\nFirst release of Hersfeld-Rotenburg scenery for Microsoft Flight Simulator 2020."
+      "LastUpdate": "VERSION 1.3.1 RELEASED APRIL 16, 2023\\n- Added helipad at Klinik Bad Hersfeld. ICAO: ZZZZ\n- Fixed Windsock at EDEN airfield",
+      "OlderHistory": "VERSION 1.0.0 RELEASED AUGUST 25, 2020\\nFirst release of Hersfeld-Rotenburg scenery for Microsoft Flight Simulator 2020.\\nVERSION 1.1.0 RELEASED SEPTEMBER 13, 2020\\n- Shorten file name of Schildepark_Fensterparadies (see #1)\n- Added new buildings:\n   - RS Components | 50.847207, 9.680427 |\n   - Landratsamt Hersfeld-Rotenburg | 50.871706, 9.716047 |\n   - Modellschule Obersberg | 50.873321, 9.732672 |\\nVERSION 1.2.0 RELEASED NOVEMBER 18, 2022\\n- Added EDKJ Langenberg (Hattenbach) airfield\n- Added night textures\n- Changed EDEN runway designators to \"18\"/\"36\" and added custom runway/taxi markings\n- Added Aral Bad Hersfeld An der Haune\n- Added Eisenbahnmuseum Bebra\n- Fixed Windsock direction #2\n- Fixed interference with Powerlines and Solar Farms scenery #3\\nVERSION 1.3.0 RELEASED APRIL 9, 2023\\n- Added Telecommunication Tower Eisenberg | 50.886216, 9.511917 |\n- Added moving three harvesters (thanks mamudesign) | 50.845266, 9.711875 | , | 50.882200, 9.712848 | and | 50.802528, 9.565055 |. Harvesters visible day time from July to September.\n- Added some railway wagons | 50.9643907, 9.8029734 |\n- Added McDonalds Bad Hersfeld | 50.862069, 9.720283 |\n- Added Esso gas station Rudolf-Diese-Straße, Bad Hersfeld | 50.852780, 9.725865 |\n- Added surprise at EDEN airfield during snow season"
     }
   }
 }

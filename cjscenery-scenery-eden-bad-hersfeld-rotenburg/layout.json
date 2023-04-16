@@ -2,18 +2,18 @@
   "content": [
     {
       "path": "ContentInfo/cjscenery-scenery-eden-bad-hersfeld-rotenburg/ContentHistory.json",
-      "size": 704,
-      "date": 133255244011907721
+      "size": 787,
+      "date": 133261325762137085
     },
     {
       "path": "ContentInfo/cjscenery-scenery-eden-bad-hersfeld-rotenburg/Thumbnail.jpg",
-      "size": 102485,
-      "date": 132428398275368396
+      "size": 100282,
+      "date": 133255351746551014
     },
     {
       "path": "MaterialLibs/eden_materials/Library.xml",
-      "size": 10928,
-      "date": 133255241870780380
+      "size": 12026,
+      "date": 133261323014913960
     },
     {
       "path": "MaterialLibs/eden_materials/textures/18.png.DDS",
@@ -136,6 +136,16 @@
       "date": 132607070829875667
     },
     {
+      "path": "MaterialLibs/eden_materials/textures/Klinikum_HEF_Hub.png.DDS",
+      "size": 89478640,
+      "date": 133257941012008573
+    },
+    {
+      "path": "MaterialLibs/eden_materials/textures/Klinikum_HEF_Hub.png.DDS.json",
+      "size": 119,
+      "date": 133257941012008573
+    },
+    {
       "path": "MaterialLibs/eden_materials/textures/marking_cross.png.DDS",
       "size": 5592580,
       "date": 132607057120040188
@@ -168,22 +178,22 @@
     {
       "path": "Scenarii/eden_scripts/EDEN_Maehdraescher1.spb",
       "size": 6811,
-      "date": 133255243979901588
+      "date": 133261325730253084
     },
     {
       "path": "Scenarii/eden_scripts/EDEN_Maehdraescher2.spb",
       "size": 14048,
-      "date": 133255243980420961
+      "date": 133261325730573801
     },
     {
       "path": "Scenarii/eden_scripts/EDEN_Maehdraescher3.spb",
       "size": 9798,
-      "date": 133255243981202136
+      "date": 133261325730968946
     },
     {
       "path": "scenery/global/scenery/modelLib.BGL",
       "size": 32539278,
-      "date": 133255243978660689
+      "date": 133261325729717065
     },
     {
       "path": "scenery/global/scenery/texture/Achim_Zuschlag_Achim_Zuschlag_0.png.DDS",
@@ -6117,18 +6127,18 @@
     },
     {
       "path": "scenery/world/scenery/EDEN.bgl",
-      "size": 289541,
-      "date": 133255243983718268
+      "size": 374227,
+      "date": 133261325734945091
     },
     {
       "path": "SimObjects/GroundVehicles/Maehdraescher/model/Maehdraescher.bin",
       "size": 349842,
-      "date": 133255243998203689
+      "date": 133261325748648976
     },
     {
       "path": "SimObjects/GroundVehicles/Maehdraescher/model/Maehdraescher.gltf",
       "size": 49446,
-      "date": 133255243998223677
+      "date": 133261325748658851
     },
     {
       "path": "SimObjects/GroundVehicles/Maehdraescher/model/Maehdraescher.xml",
@@ -6263,12 +6273,12 @@
     {
       "path": "SimObjects/Landmarks/Schneemann/model/Schneemann.bin",
       "size": 1018116,
-      "date": 133255244011787732
+      "date": 133261325761741412
     },
     {
       "path": "SimObjects/Landmarks/Schneemann/model/Schneemann.gltf",
       "size": 31686,
-      "date": 133255244011797727
+      "date": 133261325761761408
     },
     {
       "path": "SimObjects/Landmarks/Schneemann/model/Schneemann.xml",

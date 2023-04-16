@@ -5,11 +5,15 @@ https://mfc-badhersfeld.de/flugplatz
 
 ![EDEN - Bad Hersfeld](https://raw.githubusercontent.com/christophjurczyk/MSFS2020_EDEN_Bad_Hersfeld_Scenery/master/screenshots/EDEN_1.jpg)
 
-Besides the naming airfield EDEN, since v1.20 the airfield EDKJ Langenberg (Hattenbach) is available.
+Besides the naming airfield EDEN, since v1.2.0 the airfield EDKJ Langenberg (Hattenbach) is available.
 Further information can be found here: 
 https://flugplatz-langenberg.de/
 
-![EDEN - Bad Hersfeld](https://raw.githubusercontent.com/christophjurczyk/MSFS2020_EDEN_Bad_Hersfeld_Scenery/master/screenshots/hattenbach3.jpg)
+![EDKJ Langenberg (Hattenbach)](https://raw.githubusercontent.com/christophjurczyk/MSFS2020_EDEN_Bad_Hersfeld_Scenery/master/screenshots/hattenbach3.jpg)
+
+Since v1.3.1 the heliport of the Hospital Bad Hersfeld (Klinikum Bad Hersfeld) is implemented. Search in the airport field for "Klinikum Bad Hersfeld" with the ICAO ZZZZ.
+
+![Klinikum Bad Hersfeld](https://raw.githubusercontent.com/christophjurczyk/MSFS2020_EDEN_Bad_Hersfeld_Scenery/master/screenshots/EDEN_15.jpg)
 
 ## Installation:
 Download the [latest release](https://github.com/christophjurczyk/MSFS2020_EDEN_Bad_Hersfeld_Scenery/releases) and unzip the downloaded file.
