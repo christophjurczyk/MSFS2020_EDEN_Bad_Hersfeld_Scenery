@@ -1,9 +1,14 @@
 {
   "content": [
     {
+      "path": "CGL/120/sai203.cgl",
+      "size": 5985655,
+      "date": 134047337293983724
+    },
+    {
       "path": "ContentInfo/cjscenery-scenery-eden-bad-hersfeld-rotenburg/ContentHistory.json",
       "size": 787,
-      "date": 133696725174546691
+      "date": 134047463708184779
     },
     {
       "path": "ContentInfo/cjscenery-scenery-eden-bad-hersfeld-rotenburg/Thumbnail.jpg",
@@ -12,8 +17,8 @@
     },
     {
       "path": "MaterialLibs/eden_materials/Library.xml",
-      "size": 12026,
-      "date": 133696682884563075
+      "size": 15538,
+      "date": 134047288865410455
     },
     {
       "path": "MaterialLibs/eden_materials/textures/18.png.DDS",
@@ -44,6 +49,21 @@
       "path": "MaterialLibs/eden_materials/textures/36.png.DDS.json",
       "size": 198,
       "date": 132607121920259026
+    },
+    {
+      "path": "MaterialLibs/eden_materials/textures/aerial_hef_klinikum.png.DDS",
+      "size": 22369796,
+      "date": 134046754393529689
+    },
+    {
+      "path": "MaterialLibs/eden_materials/textures/aerial_hef_klinikum.png.DDS.FLAGS",
+      "size": 39,
+      "date": 134046755480767200
+    },
+    {
+      "path": "MaterialLibs/eden_materials/textures/aerial_hef_klinikum.png.DDS.json",
+      "size": 249,
+      "date": 134046754393529689
     },
     {
       "path": "MaterialLibs/eden_materials/textures/centerline.png.DDS",
@@ -89,6 +109,51 @@
       "path": "MaterialLibs/eden_materials/textures/grid_south.png.DDS.json",
       "size": 249,
       "date": 132607490030515484
+    },
+    {
+      "path": "MaterialLibs/eden_materials/textures/Helipad_Texture_color.png.DDS",
+      "size": 89478660,
+      "date": 133726152949644677
+    },
+    {
+      "path": "MaterialLibs/eden_materials/textures/Helipad_Texture_color.png.DDS.FLAGS",
+      "size": 39,
+      "date": 133726161264500906
+    },
+    {
+      "path": "MaterialLibs/eden_materials/textures/Helipad_Texture_color.png.DDS.json",
+      "size": 232,
+      "date": 133726152949644677
+    },
+    {
+      "path": "MaterialLibs/eden_materials/textures/Helipad_Texture_normal.png.DDS",
+      "size": 89478640,
+      "date": 133726155974648090
+    },
+    {
+      "path": "MaterialLibs/eden_materials/textures/Helipad_Texture_normal.png.DDS.FLAGS",
+      "size": 21,
+      "date": 133726161719463480
+    },
+    {
+      "path": "MaterialLibs/eden_materials/textures/Helipad_Texture_normal.png.DDS.json",
+      "size": 185,
+      "date": 133726155974648090
+    },
+    {
+      "path": "MaterialLibs/eden_materials/textures/Helipad_Texture_rgb.png.DDS",
+      "size": 89478660,
+      "date": 133726153677172972
+    },
+    {
+      "path": "MaterialLibs/eden_materials/textures/Helipad_Texture_rgb.png.DDS.FLAGS",
+      "size": 21,
+      "date": 133726161674289838
+    },
+    {
+      "path": "MaterialLibs/eden_materials/textures/Helipad_Texture_rgb.png.DDS.json",
+      "size": 208,
+      "date": 133726153677172972
     },
     {
       "path": "MaterialLibs/eden_materials/textures/holdingline_mid.png.DDS",
@@ -178,22 +243,22 @@
     {
       "path": "Scenarii/eden_scripts/EDEN_Maehdraescher1.spb",
       "size": 6811,
-      "date": 133696683831657594
+      "date": 134047290185685496
     },
     {
       "path": "Scenarii/eden_scripts/EDEN_Maehdraescher2.spb",
       "size": 14048,
-      "date": 133696683831818114
+      "date": 134047290185875713
     },
     {
       "path": "Scenarii/eden_scripts/EDEN_Maehdraescher3.spb",
       "size": 9798,
-      "date": 133696683831937044
+      "date": 134047290186020774
     },
     {
       "path": "scenery/global/scenery/modelLib.BGL",
-      "size": 32539278,
-      "date": 133696683831205327
+      "size": 32590248,
+      "date": 134047290185149174
     },
     {
       "path": "scenery/global/scenery/texture/Achim_Zuschlag_Achim_Zuschlag_0.png.DDS",
@@ -2616,6 +2681,26 @@
       "date": 132602148935587531
     },
     {
+      "path": "scenery/global/scenery/texture/Fence002_4K-JPG_Color_green.png.DDS",
+      "size": 22369776,
+      "date": 133728818030812339
+    },
+    {
+      "path": "scenery/global/scenery/texture/Fence002_4K-JPG_Color_green.png.DDS.json",
+      "size": 119,
+      "date": 133728818030812339
+    },
+    {
+      "path": "scenery/global/scenery/texture/Fence002_4K-JPG_RGB.png.DDS",
+      "size": 11184952,
+      "date": 133732282303858238
+    },
+    {
+      "path": "scenery/global/scenery/texture/Fence002_4K-JPG_RGB.png.DDS.json",
+      "size": 166,
+      "date": 133732282303858238
+    },
+    {
       "path": "scenery/global/scenery/texture/Fenster.png.DDS",
       "size": 87536,
       "date": 133227763707034323
@@ -4274,6 +4359,36 @@
       "path": "scenery/global/scenery/texture/Merkur_Spielothek_texture_3.png.DDS.json",
       "size": 102,
       "date": 132607434385230725
+    },
+    {
+      "path": "scenery/global/scenery/texture/Metal027_1K-PNG_Color_green.png.DDS",
+      "size": 699192,
+      "date": 133732280428026122
+    },
+    {
+      "path": "scenery/global/scenery/texture/Metal027_1K-PNG_Color_green.png.DDS.json",
+      "size": 102,
+      "date": 133732280428026122
+    },
+    {
+      "path": "scenery/global/scenery/texture/Metal027_1K-PNG_NormalDX.png.DDS",
+      "size": 1398256,
+      "date": 133732279203741560
+    },
+    {
+      "path": "scenery/global/scenery/texture/Metal027_1K-PNG_NormalDX.png.DDS.json",
+      "size": 160,
+      "date": 133732279203741560
+    },
+    {
+      "path": "scenery/global/scenery/texture/Metal027_1K-PNG_RGB.png.DDS",
+      "size": 699192,
+      "date": 133732279479031937
+    },
+    {
+      "path": "scenery/global/scenery/texture/Metal027_1K-PNG_RGB.png.DDS.json",
+      "size": 166,
+      "date": 133732279479031937
     },
     {
       "path": "scenery/global/scenery/texture/metalgalvanized0022_7_s.png.DDS",
@@ -6127,18 +6242,18 @@
     },
     {
       "path": "scenery/world/scenery/EDEN.bgl",
-      "size": 376526,
-      "date": 133696725174466535
+      "size": 379517,
+      "date": 134047463708080584
     },
     {
       "path": "SimObjects/GroundVehicles/Maehdraescher/model/Maehdraescher.bin",
       "size": 349842,
-      "date": 133696683839318444
+      "date": 134047290195982610
     },
     {
       "path": "SimObjects/GroundVehicles/Maehdraescher/model/Maehdraescher.gltf",
       "size": 49446,
-      "date": 133696683839333490
+      "date": 134047290195992609
     },
     {
       "path": "SimObjects/GroundVehicles/Maehdraescher/model/Maehdraescher.xml",
@@ -6273,12 +6388,12 @@
     {
       "path": "SimObjects/Landmarks/Schneemann/model/Schneemann.bin",
       "size": 1018116,
-      "date": 133696683847228652
+      "date": 134047290205278702
     },
     {
       "path": "SimObjects/Landmarks/Schneemann/model/Schneemann.gltf",
       "size": 31686,
-      "date": 133696683847238703
+      "date": 134047290205283752
     },
     {
       "path": "SimObjects/Landmarks/Schneemann/model/Schneemann.xml",

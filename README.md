@@ -79,6 +79,7 @@ The scenery is provided under following [license](https://github.com/christophju
 
 ## Special Thanks:
 The objects were created with [Sketchup](https://www.sketchup.com/) and [Blender](https://www.blender.org/), converted with the [ModelconvertX](https://www.scenerydesign.org/modelconverterx/) and the [MSFS SDK Blender Plugin](https://docs.flightsimulator.com/html/Asset_Creation/Blender_Plugin/The_Blender_Plugin.htm?agt=index). Textures were partly created by myself or used from textures.com. Thanks to [mamudesign](https://de.flightsim.to/profile/mamu82) for all his tutorials and tools.
+Thanks to the [Hessische Verwaltung für Bodenmanagement und Geoinformation](https://www.geoportal.de/Metadata/89e00640-43a0-9896-101c-1d0c324f7ecb) for provision of aerial images with restriction free license [DL-DE->Zero-2.0](https://www.govdata.de/dl-de/zero-2-0).
 
 ## Contact:
 Please use the Github [Issues](https://github.com/christophjurczyk/MSFS2020_EDEN_Bad_Hersfeld_Scenery/issues) to report bugs or any other issue. To contact me, write a mail to ![mail](https://raw.githubusercontent.com/christophjurczyk/MSFS2020_EDEN_Bad_Hersfeld_Scenery/master/mail.png)
