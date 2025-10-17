@@ -13,7 +13,7 @@ https://flugplatz-langenberg.de/
 
 Since v1.3.1 the heliport of the Hospital Bad Hersfeld (Klinikum Bad Hersfeld) is implemented. Search in the airport field for "Klinikum Bad Hersfeld" with the ICAO ZZZZ. To spawn cold&dark for some addons (e.g. HPH H145) an additional parking point is availble.
 
-![Klinikum Bad Hersfeld](https://raw.githubusercontent.com/christophjurczyk/MSFS2020_EDEN_Bad_Hersfeld_Scenery/master/screenshots/EDEN_15.jpg)
+![Klinikum Bad Hersfeld](https://raw.githubusercontent.com/christophjurczyk/MSFS2020_EDEN_Bad_Hersfeld_Scenery/master/screenshots/EDEN_19.jpg)
 
 ## Installation:
 Download the [latest release](https://github.com/christophjurczyk/MSFS2020_EDEN_Bad_Hersfeld_Scenery/releases) and unzip the downloaded file.
